@@ -1,0 +1,51 @@
+[GAME_NAME]
+The Adventure of PRISMS
+
+[NAME]
+true
+[MAIN_MENU]
+Start New Game
+Load Game
+Exit
+
+[STEP_1]
+[NARRATIVE]
+Welcome, [USER], to the mystical world of PRISMS!
+You are a brave adventurer embarking on a quest to uncover ancient secrets.
+Your journey begins in the Whispering Woods, a place of both beauty and peril.
+Choose your path wisely, for destiny awaits!
+[/NARRATIVE]
+
+[CHOICES]
+A) Venture deeper into the Whispering Woods → STEP_2
+B) Seek guidance from the ancient library → STEP_3
+[/CHOICES]
+
+[STEP_2]
+[NARRATIVE]
+You delve deeper into the Whispering Woods. The trees grow denser, and the light fades. You hear strange rustling noises around you.
+[/NARRATIVE]
+
+[CHOICES]
+A) Investigate the rustling sound → ENDING_FAILURE
+B) Continue cautiously forward → ENDING_SUCCESS
+[/CHOICES]
+
+[STEP_3]
+[NARRATIVE]
+You arrive at the ancient library, a towering structure filled with forgotten knowledge. An old librarian greets you.
+[/NARRATIVE]
+
+[CHOICES]
+A) Ask about ancient secrets → ENDING_SUCCESS
+B) Browse the forbidden section → ENDING_FAILURE
+[/CHOICES]
+
+[ENDING_SUCCESS]
+Congratulations, brave adventurer! You have successfully navigated the perils and uncovered the ancient secrets. Your journey concludes with triumph and renown.
+
+[ENDING_FAILURE]
+Alas, your adventure has met an untimely end. Perhaps next time, choose your path more carefully.
+
+[ENDING_NEUTRAL]
+Your journey concludes, neither with grand success nor utter failure. The path ahead remains uncertain, but you have gained valuable experience.

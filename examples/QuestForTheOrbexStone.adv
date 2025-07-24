@@ -1,0 +1,479 @@
+[GAME_NAME]
+A Quest for the Orbex Stone
+
+[NAME]
+false
+
+[MAIN_MENU]
+Start New Game
+Load Game
+Exit
+
+[STORY_TEXT]
+[STEP_1]
+[NARRATIVE]
+The Jedi Temple on Coruscant is quiet, a rare moment of peace. Your Master has assigned you the mundane task of cleaning your quarters, a lesson in humility and focus. As you tidy up a stack of old datapads, your hand brushes against a loose panel on the wall. Curiosity piqued, you pry it open, revealing a hidden compartment you've never seen before. Inside rests a small, spherical object covered in dust.
+[/NARRATIVE]
+
+[CHOICES]
+A) Pick up the object and inspect it closely. → STEP_2
+B) Ignore it and report the hidden compartment to your Master. → STEP_4
+[/CHOICES]
+
+[STEP_2]
+[NARRATIVE]
+You lift the object from its dusty recess. It's heavier than it looks, made of a worn, dark metal. As you wipe away the grime, a series of lights flicker to life, and the object unfolds into a small, bipedal droid. It whirs and beeps, its single blue photoreceptor blinking as it takes in its surroundings for the first time in what seems like ages. You have discovered K4-N1, an old but functional valet droid.
+[/NARRATIVE]
+
+[CHOICES]
+A) Try to access the droid's primary programming. → STEP_3
+B) Ask the droid who it is and where it came from. → STEP_5
+[/CHOICES]
+
+[STEP_3]
+[NARRATIVE]
+You tinker with a small access panel on K4-N1's back, trying to access its core functions. With a sudden jolt, the droid projects a beam of light into the center of your room. The light forms a shimmering, three-dimensional star map, highlighting a single, unfamiliar system. A recorded voice, aged and filled with conviction, echoes from the droid: "The Orbex Stone, a crystal of immense power, waits on Dantooine. Seek it, Padawan, and find your true companion in the Force."
+[/NARRATIVE]
+
+[CHOICES]
+A) Decide to embark on this quest immediately. → STEP_6
+B) Ask K4-N1 for more information about the Orbex Stone. → STEP_5
+[/CHOICES]
+
+[STEP_4]
+[NARRATIVE]
+You decide the most disciplined course of action is to inform your Master. She listens patiently, a knowing smile on her face as you describe the hidden compartment and its contents. "A test of curiosity," she says. "What you have found, you should study. Discover its purpose. This is your assignment now." She dismisses you, leaving you alone again with the dusty object and her cryptic instructions.
+[/NARRATIVE]
+
+[CHOICES]
+A) Return to your room and examine the object. → STEP_2
+[/CHOICES]
+
+[STEP_5]
+[NARRATIVE]
+"I am K4-N1," the droid beeps, its voice a synthesized warble. "My last directive was to safeguard the location of the Orbex Stone." K4 explains that the stone is a legendary kyber crystal, one that forms a unique bond with its wielder, rumored to summon an ethereal echo or companion from the Force itself. To build a lightsaber with it is to create a weapon unlike any other. The only problem is that the stone is on Dantooine, a world far from Coruscant.
+[/NARRATIVE]
+
+[CHOICES]
+A) This is a Jedi matter. You must go. → STEP_6
+[/CHOICES]
+
+[STEP_6]
+[NARRATIVE]
+Your heart pounds with a mix of fear and excitement. This is what you've been training for, a real mission beyond the Temple walls. However, you are only a Padawan and have no ship of your own. K4-N1 whirs, suggesting the public hangars on Coruscant's lower levels are your best bet for "borrowing" a vessel unnoticed. The alternative is trying to charter passage, which could draw unwanted attention.
+[/NARRATIVE]
+
+[CHOICES]
+A) Sneak into the public hangars and find a ship. → STEP_7
+B) Find a pilot in a cantina who looks discreet enough for the job. → STEP_8
+[/CHOICES]
+
+[STEP_7]
+[NARRATIVE]
+You and K4-N1 take a transport to the sprawling Federal District hangars. The air is thick with the smell of engine fuel and the noise of countless ships. Port Authority guards patrol the walkways, their expressions stern and uncompromising. K4-N1 points out a forgotten-looking YT-series light freighter, tucked away in a poorly lit docking bay. Getting there will require careful timing and a bit of luck.
+[/NARRATIVE]
+
+[CHOICES]
+A) Create a distraction to draw the guards away. → STEP_9
+B) Use the Force to cloud the guards' minds as you slip past. → STEP_10
+[/CHOICES]
+
+[STEP_8]
+[NARRATIVE]
+You find a dimly lit cantina near the spaceport, the kind of place where deals are made in whispers. Your eyes land on a Twi'lek pilot arguing with a Rodian over a game of sabacc. She carries herself with a confident swagger, a well-used blaster pistol strapped to her thigh. She looks like she's seen her fair share of the galaxy and isn't afraid of a little risk.
+[/NARRATIVE]
+
+[CHOICES]
+A) Approach her and offer to pay for passage to Dantooine. → STEP_11
+B) Wait for her to finish her game and approach her more discreetly. → STEP_12
+[/CHOICES]
+
+[STEP_9]
+[NARRATIVE]
+You motion for K4-N1 to slice a nearby cargo lift's controls. The droid complies, and a container of noisy, clucking Gremma birds crashes to the floor, creating a cacophony. The guards rush toward the sound, giving you a clear path to the freighter. You sprint across the hangar floor, scramble up the ship's ramp, and dive into the cockpit with K4-N1 right behind you.
+[/NARRATIVE]
+
+[CHOICES]
+A) Power up the ship and get out of there. → STEP_13
+[/CHOICES]
+
+[STEP_10]
+[NARRATIVE]
+You close your eyes and reach out with the Force. You focus on the patrolling guards, planting a simple thought in their minds: "That catwalk is much more interesting than this one." You watch as they both turn and walk the other way, their senses completely fooled. You calmly walk to the freighter, K4-N1 rolling silently at your side, and board the ship without raising any suspicion.
+[/NARRAIVE]
+
+[CHOICES]
+A) Time to fly. Fire up the engines. → STEP_13
+[/CHOICES]
+
+[STEP_11]
+[NARRATIVE]
+You walk up to the Twi'lek pilot, who eyes you with suspicion. "Dantooine? That's a quiet place for a Jedi," she says, introducing herself as Zella. "It'll cost you. A lot. And I want the money upfront." You don't have nearly enough credits to meet her price. She sees the desperation in your face and smirks. "Or... you could owe me a favor. A big one. No questions asked."
+[/NARRATIVE]
+
+[CHOICES]
+A) Agree to owe her a favor. You need to get to Dantooine. → STEP_14
+B) Try to persuade her with an appeal to a greater good. → STEP_15
+[/CHOICES]
+
+[STEP_12]
+[NARRATIVE]
+You wait until the Twi'lek, Zella, collects her winnings and heads for the exit. You catch her in the corridor outside. "I need passage to Dantooine, quietly," you say. She looks you over, her gaze lingering on your training lightsaber. "I'm not in the business of helping the Jedi Order, kid. It attracts the wrong kind of attention." She turns to leave.
+[/NARRATIVE]
+
+[CHOICES]
+A) Mention the Orbex Stone and its importance. → STEP_15
+B) Plead with her, explaining it's a personal mission, not official Jedi business. → STEP_14
+[/CHOICES]
+
+[STEP_13]
+[NARRATIVE]
+The freighter's engines roar to life with a shudder. Alarms begin to blare across the hangar as the Port Authority realizes one of their ships is being stolen. You pull back on the yoke, guiding the bulky ship out of the docking bay and into Coruscant's chaotic sky-lanes. Weaving through traffic, you push the ship higher, toward the blackness of space, a stolen vessel on a forbidden quest.
+[/NARRATIVE]
+
+[CHOICES]
+A) Plot a course for Dantooine and make the jump to lightspeed. → STEP_16
+[/CHOICES]
+
+[STEP_14]
+[NARRATIVE]
+"A favor it is," you agree, the words feeling heavy. Zella grins, a promise of future trouble in her eyes. "Alright, kid. My ship, the 'Lucky Charm,' is in bay 94. Be there in twenty minutes. Don't be late." She saunters off, leaving you to ponder what kind of mess you've just agreed to. Still, it's a ride, and it's taking you closer to your goal.
+[/NARRATIVE]
+
+[CHOICES]
+A) Head to bay 94 to meet your new, untrustworthy partner. → STEP_17
+[/CHOICES]
+
+[STEP_15]
+[NARRATIVE]
+You try to appeal to her better nature, speaking of the Force and the need to protect ancient relics from those who would misuse them. Zella just laughs. "The Force doesn't pay my fuel bills, kid." She seems ready to walk away for good, but then K4-N1 projects a small image of the Orbex Stone, shimmering with inner light. Zella's eyes widen. "A stone like that could be worth a fortune... alright, I'm in. But I get a cut."
+[/NARRATIVE]
+
+[CHOICES]
+A) Agree to her terms. She can have a "cut" of the priceless artifact. → STEP_17
+[/CHOICES]
+
+[STEP_16]
+[NARRATIVE]
+With Coruscant's security forces closing in, you slam the lever for the hyperdrive. The stars stretch into long lines of blue and white, and the ship lurches as it enters the serene tunnel of hyperspace. You've done it. You are on your way to Dantooine. K4-N1 beeps reassuringly, projecting the coordinates for a ruined Jedi Enclave on the planet's surface where your search must begin.
+[/NARRATIVE]
+
+[CHOICES]
+A) Ask K4-N1 to scan the stolen ship's systems for any issues. → STEP_18
+B) Try to get some rest while you travel. → STEP_19
+[/CHOICES]
+
+[STEP_17]
+[NARRATIVE]
+You meet Zella at her ship, the 'Lucky Charm,' which looks even more worn-out than the one you almost stole. As you lift off from Coruscant, she expertly pilots through the traffic and makes the jump to lightspeed. "So," she says, leaning back in her chair. "This 'Orbex Stone.' Tell me why a Jedi Padawan is chasing after a rock halfway across the galaxy." The journey will be filled with her prying questions.
+[/NARRATIVE]
+
+[CHOICES]
+A) Tell her the truth about its legendary power. → STEP_20
+B) Be vague, saying only that it's an important Jedi artifact. → STEP_21
+[/CHOICES]
+
+[STEP_18]
+[NARRATIVE]
+K4-N1 interfaces with the ship's computer, its head swiveling as it runs diagnostics. It lets out a worried series of beeps. The hyperdrive motivator is unstable from lack of maintenance, and the navicomputer has some corrupted data sectors. It's a miracle the ship made the jump at all. The droid suggests that landing might be rough and that another jump could be dangerous without repairs.
+[/NARRATIVE]
+
+[CHOICES]
+A) You'll cross that bridge when you come to it. Focus on the mission. → STEP_22
+[/CHOICES]
+
+[STEP_19]
+[NARRATIVE]
+You try to meditate, to calm your racing thoughts, but sleep won't come. The weight of your decision sits heavily upon you. You have disobeyed your Master, stolen a ship, and left the only home you've ever known on a quest given to you by a mysterious droid. You can only hope that the Force is guiding your hand and that this path is the right one.
+[/NARRATIVE]
+
+[CHOICES]
+A) The ship drops out of hyperspace. You have arrived. → STEP_22
+[/CHOICES]
+
+[STEP_20]
+[NARRATIVE]
+You decide honesty is the best policy and tell Zella the legend of the Orbex Stone. You speak of the ethereal companion it can summon and the unique bond it forms. She listens intently, her greedy skepticism slowly turning into genuine awe. "A ghost-friend from the Force? Now that's a story," she murmurs, a new kind of interest in her eyes. "This just got a lot more interesting than simple profit."
+[/NARRATIVE]
+
+[CHOICES]
+A) You arrive at Dantooine. Time to begin the search. → STEP_22
+[/CHOICES]
+
+[STEP_21]
+[NARRATIVE]
+You remain guarded, explaining only that the stone is a historical artifact of great significance to the Jedi. Zella scoffs, clearly not believing you. "Right. 'Historical significance.' That's what they all say right before the laser fire starts." She doesn't press you further, but you can feel her distrust. It's clear she's only in this for the potential reward, and her loyalty is thin.
+[/NARRATIVE]
+
+[CHOICES]
+A) The ship exits hyperspace above the green plains of Dantooine. → STEP_22
+[/CHOICES]
+
+[STEP_22]
+[NARRATIVE]
+The plains of Dantooine spread out below you, a tapestry of green and gold. K4-N1's coordinates lead you to a secluded, rocky area where the ruins of the old Jedi Enclave stand, weathered by time. You land the ship nearby, the air outside fresh and clean. The entrance to the main structure is a large stone door, sealed tight and covered in ancient Jedi symbols.
+[/NARRATIVE]
+
+[CHOICES]
+A) Have K4-N1 analyze the symbols for a logical solution. → STEP_23
+B) Use the Force to feel for the lock's mechanism. → STEP_24
+[/CHOICES]
+
+[STEP_23]
+[NARRATIVE]
+K4-N1 projects a scanner beam onto the door, its internal processors whirring loudly. The droid identifies the symbols as part of an ancient Jedi mantra about balance. "There is no passion, there is serenity," it beeps. K4 suggests that pressing the symbols for serenity, peace, and harmony in the correct sequence should open the door. It highlights the three symbols for you.
+[/NARRATIVE]
+
+[CHOICES]
+A) Press the symbols as the droid suggests. → STEP_25
+[/CHOICES]
+
+[STEP_24]
+[NARRATIVE]
+You close your eyes, shutting out the world and reaching out with your feelings. You let the Force flow through you, towards the door. It's not a machine, you realize, but a living puzzle. The Force guides your hand, showing you a pattern not of symbols, but of pressure points on the door. You feel a sense of harmony as you trace the pattern with your fingers.
+[/NARRATIVE]
+
+[CHOICES]
+A) Press the pressure points the Force has revealed. → STEP_25
+[/CHOICES]
+
+[STEP_25]
+[NARRATIVE]
+With a deep grinding sound that echoes across the plains, the ancient stone door slides open. A wave of cool, musty air washes over you from the darkness within. The light from outside barely penetrates the entrance hall, revealing crumbling walls and the shadows of forgotten history. This place has not been disturbed for a very long time. You take a breath and step inside, K4-N1 rolling nervously behind you.
+[/NARRATIVE]
+
+[CHOICES]
+A) Proceed into the main chamber. → STEP_26
+[/CHOICES]
+
+[STEP_26]
+[NARRATIVE]
+Deeper inside the ruin, the silence is unnerving. Your footsteps echo in the vast, empty halls. Suddenly, a low growl reverberates from the shadows ahead. Two pairs of glowing eyes appear in the darkness, followed by the hulking shapes of native Kath Hounds, territorial predators known for their ferocity. They stand between you and the path forward, snarling and lowering their heads to charge.
+[/NARRATIVE]
+
+[CHOICES]
+A) Ignite your training saber to scare them away. → STEP_27
+B) Look for a place to hide and let them pass. → STEP_28
+[/CHOICES]
+
+[STEP_27]
+[NARRATIVE]
+You draw the simple training saber from your belt and ignite its low-powered blade. The weapon's hum and soft glow are enough to startle the beasts. You flourish the blade in a basic training maneuver, the light casting dancing shadows on the walls. The Kath Hounds, not accustomed to such a sight, yelp in confusion and retreat back into the darkness from which they came, clearing your path.
+[/NARRATIVE]
+
+[CHOICES]
+A) Continue deeper into the Enclave. → STEP_29
+[/CHOICES]
+
+[STEP_28]
+[NARRATIVE]
+You quickly duck behind a fallen pillar, pulling K4-N1 with you and silencing its nervous beeps. You hold your breath as the heavy footfalls of the Kath Hounds grow louder. They stalk past your hiding spot, their hot breath ghosting over the stone as they sniff the air. After a tense moment, their interest wanes, and they continue their patrol down a different corridor, leaving you safe.
+[/NARRATIVE]
+
+[CHOICES]
+A) Wait a moment, then proceed. → STEP_29
+[/CHOICES]
+
+[STEP_29]
+[NARRATIVE]
+You reach what appears to be a central meditation chamber. There is no sign of the Orbex Stone. Instead, resting on a stone lectern is a single, metallic datachip. As you pick it up, K4-N1's photoreceptor flashes. "Padawan, this is not a map," the droid warns, "It is a beacon. A silent alarm. Someone has been alerted to our presence here."
+[/NARRATIVE]
+
+[CHOICES]
+A) Have K4-N1 slice the chip to see what's on it. → STEP_30
+B) Forget the chip and run back to the ship immediately. → STEP_31
+[/CHOICES]
+
+[STEP_30]
+[NARRATIVE]
+K4-N1 quickly inserts the chip into its chassis. "The data is corrupted, but I can read fragments," it beeps frantically. "The Orbex Stone was moved... a place of great power... a forest moon... Yavin 4!" Suddenly, a piercing shriek echoes from outside the ruin. K4-N1 whirls around. "An Imperial Probe Droid! It has spotted us! The alarm on this chip was also a tracking signal!"
+[/NARRATIVE]
+
+[CHOICES]
+A) Run for the ship now! → STEP_31
+[/CHOICES]
+
+[STEP_31]
+[NARRATIVE]
+You don't hesitate. You turn and sprint from the Enclave, K4-N1 rolling as fast as its wheels can carry it. As you burst back into the daylight, you see the black, multi-limbed shape of an Imperial Probe Droid hovering over the clearing, its red eye fixed on you. It lets out another burst of static-filled chatter, undoubtedly transmitting your location.
+[/NARRATIVE]
+
+[CHOICES]
+A) Use the Force to throw a rock at the probe and disable it. → STEP_32
+B) Ignore the probe and just get back to the ship. → STEP_33
+[/CHOICES]
+
+[STEP_32]
+[NARRATIVE]
+You focus, grabbing a loose piece of debris with the Force and flinging it hard at the probe droid. The rock strikes true, shattering the droid's main sensor array. It spirals out of control, crashing to the ground in a shower of sparks. You know it likely sent a transmission before you destroyed it, but at least it can no longer give a live feed of your escape.
+[/NARRATIVE]
+
+[CHOICES]
+A) Now get to the ship and take off. → STEP_34
+[/CHOICES]
+
+[STEP_33]
+[NARRATIVE]
+There's no time to fight. You ignore the probe droid and make a mad dash for your ship's ramp. The probe follows, firing its small under-mounted blaster, the bolts searing the ground around your feet. You get aboard just in time, sealing the ramp behind you as a laser blast scorches the metal. You have to get off this planet now.
+[/NARRATIVE]
+
+[CHOICES]
+A) Fire up the engines and punch it. → STEP_34
+[/CHOICES]
+
+[STEP_34]
+[NARRATIVE]
+You blast off from Dantooine, pushing the ship into a steep ascent. As you clear the atmosphere, your proximity sensors scream. A sleek, black ship drops out of hyperspace directly in your path. It's a VT-49 Decimator, a ship favored by high-level Imperial agents. The probe droid's signal was received. You are no longer just on a quest; you are being hunted.
+[/NARRATIVE]
+
+[CHOICES]
+A) Try to outrun them and make the jump to Yavin 4. → STEP_35
+B) Face them. Maybe you can talk your way out of this. → STEP_36
+[/CHOICES]
+
+[STEP_35]
+[NARRATIVE]
+Banking hard, you push the engines far past their safety limits, aiming for the coordinates of the Yavin system. Green laser fire from the Imperial ship streaks past your cockpit. The ship shudders under the strain as you input the calculations for the jump. Just as their targeting computer locks on, you pull the lever, and the stars stretch into the welcoming blue of hyperspace.
+[/NARRATIVE]
+
+[CHOICES]
+A) The ship is safe for now. Continue to Yavin 4. → STEP_37
+[/CHOICES]
+
+[STEP_36]
+[NARRATIVE]
+A comm signal comes through, and a face appears on your viewscreen. It is a woman with pale skin and sharp features, clad in black armor—an Imperial Inquisitor. "You have something that belongs to the Empire, little Jedi," she says, her voice cold and commanding. "Surrender the artifact, and your death will be swift." There is no room for negotiation in her voice, only menace.
+[/NARRATIVE]
+
+[CHOICES]
+A) Cut the transmission and make a run for it. → STEP_35
+B) Stall for time while K4-N1 plots an escape vector. → STEP_38
+[/CHOICES]
+
+[STEP_37]
+[NARRATIVE]
+You arrive in the Yavin system, the massive red gas giant looming before you. You guide the ship toward its fourth moon, a world covered in a dense, green jungle. Finding a clearing near the coordinates from the datachip, you set the ship down, the canopy of the jungle hiding you from orbital view. K4-N1 informs you that the ship sustained damage during your escape and will need repairs before it can fly again.
+[/NARRATIVE]
+
+[CHOICES]
+A) The repairs can wait. Head into the jungle to find the temple. → STEP_39
+[/CHOICES]
+
+[STEP_38]
+[NARRATIVE]
+"I don't know what you're talking about," you say, trying to sound calm. As the Inquisitor lectures you on the futility of resistance, K4-N1 discreetly plots a jump through a nearby nebula that should disrupt her sensors. The droid gives you a subtle beep. Now or never. You cut the comm, bank sharply into the glowing gas cloud, and make the jump to hyperspace, leaving the Inquisitor staring at static.
+[/NARRATIVE]
+
+[CHOICES]
+A) You've escaped, but she knows what you look like now. Proceed to Yavin 4. → STEP_37
+[/CHOICES]
+
+[STEP_39]
+[NARRATIVE]
+The air on Yavin 4 is humid and alive with the sounds of unseen creatures. K4-N1's map leads you toward a series of gargantuan stone structures rising from the jungle floor: the ancient Massassi Temples. As you navigate the dense undergrowth, you hear the snap of a twig nearby. You are not alone.
+[/NARRATIVE]
+
+[CHOICES]
+A) Call out to whoever is there. → STEP_40
+B) Hide and observe the newcomer. → STEP_41
+[/CHOICES]
+
+[STEP_40]
+[NARRATIVE]
+"Who's there?" you call out, your hand resting on your training saber. A man emerges from the foliage, dressed in worn survival gear. He has a grizzled face and wary eyes, and carries a hunting blaster rifle. "I should be asking you that," he says, his voice rough. "Not many people come to this temple. Especially not ones who look like Jedi."
+[/NARRATIVE]
+
+[CHOICES]
+A) Tell him you are looking for something important. → STEP_42
+B) Ask him who he is first. → STEP_43
+[/CHOICES]
+
+[STEP_41]
+[NARRATIVE]
+You pull K4-N1 behind a large tree fern and peer out. A man in survival gear moves through the jungle with expert silence. He seems to be patrolling the area around the temple. As you try to shadow him, your foot catches on a root and you stumble into a patch of sink-vines. They instantly wrap around your leg, pulling you down. The man turns at the sound, sighs, and walks over to cut you free. "A little clumsy for a Jedi, aren't you?" he asks.
+[/NARRATIVE]
+
+[CHOICES]
+A) Thank him and explain your situation. → STEP_42
+[/CHOICES]
+
+[STEP_42]
+[NARRATIVE]
+"My name is Kael," the man says, lowering his rifle slightly. "I was with the Rebellion. When the war ended, I came back here. A caretaker for the ghosts." You explain your quest for the Orbex Stone, and he nods grimly. "I know of it. A place of great power. The Empire searched for it once. If you're going in, be warned. The temple is full of traps and dark echoes."
+[/NARRATIVE]
+
+[CHOICES]
+A) Ask him to guide you. → STEP_44
+[/CHOICES]
+
+[STEP_43]
+[NARRATIVE]
+"I am Kael," he replies, his eyes still narrowed. "I was a Pathfinder for the Rebel Alliance. Now I just... watch this place." He gestures to the temple. "It's not a safe place for a kid. The dark side lingers here like a poison." He seems reluctant to trust you, but sees the determination in your eyes. "Fine. But stick close. And do what I say."
+[/NARRATIVE]
+
+[CHOICES]
+A) Agree to his terms and follow him. → STEP_44
+[/CHOICES]
+
+[STEP_44]
+[NARRATIVE]
+Kael leads you to the base of the Great Temple. The main entrance is a vast, dark maw that seems to swallow the light. As you approach, the air grows cold and the doorway shimmers, replaced by an illusion of a solid stone wall. "A Force illusion," Kael mutters. "Designed to repel the unworthy. You're on your own here, kid. I can't see through that kind of thing."
+[/NARRATIVE]
+
+[CHOICES]
+A) Trust in the Force to show you the way. → STEP_45
+B) Let K4-N1 scan for structural weaknesses to find a way around. → STEP_46
+[/CHOICES]
+
+[STEP_45]
+[NARRATIVE]
+You close your eyes and do as your Master taught you. You reach out, not with your eyes, but with your feelings. The dark side illusion pushes back, filling your mind with fear and doubt, but you hold firm to the light. You feel a pull, a current in the Force leading you to a specific spot. You walk forward with confidence, passing through the illusion as if it were smoke, finding the true, open entrance.
+[/NARRATIVE]
+
+[CHOICES]
+A) Enter the final chamber. → STEP_47
+[/CHOICES]
+
+[STEP_46]
+[NARRATIVE]
+You ask K4-N1 to perform a geo-scan of the entrance. The droid's scanners are baffled by the dark side energy but detect a crumbling section of wall to the left of the illusion. "Structurally unsound," it beeps. With a great heave, you and Kael push against the loose stones, creating a small opening you can crawl through. It is a crude solution, but it gets you inside the temple's first chamber.
+[/NARRATIVE]
+
+[CHOICES]
+A) Press on to the heart of the temple. → STEP_47
+[/CHOICES]
+
+[STEP_47]
+[NARRATIVE]
+You have found it. The central chamber is bathed in a soft, ethereal light emanating from a single, uncut crystal floating above a stone pedestal. The Orbex Stone. It pulses with a calm, powerful energy that resonates deep within you. But you are not alone. "I was wondering when you would arrive." The cold voice belongs to the Inquisitor, the Seventh Sister, who steps from the shadows, her double-bladed spinning lightsaber igniting with a menacing snap-hiss.
+[/NARRATIVE]
+
+[CHOICES]
+A) Grab the stone and prepare to fight for it. → STEP_48
+B) Try to reason with her. There must be another way. → STEP_49
+[/CHOICES]
+
+[STEP_48]
+[NARRATIVE]
+You leap forward, snatching the Orbex Stone from the air just as the Inquisitor lunges. The moment your fingers touch the crystal, the entire temple groans and begins to shake violently. Dust and stone fall from the ceiling. You now hold the prize, but the Inquisitor stands between you and the exit, a predator's smile on her face. "Nowhere to run, little Jedi," she taunts.
+[/NARRATIVE]
+
+[CHOICES]
+A) "I am a Jedi, like my father before me." Attack her head-on. → ENDING_FAILURE
+B) Use the Force to bring the ceiling down between you and her, creating an escape route. → ENDING_SUCCESS
+[/CHOICES]
+
+[STEP_49]
+[NARRATIVE]
+"This artifact should not be used for hatred," you plead, holding your ground. "There is still good in you. I can feel it." The Seventh Sister pauses, her spinning blade slowing. For a moment, you see a flicker of conflict in her eyes, a hint of the person she once was. But it is swallowed by darkness. "Compassion," she snarls, "is a weakness." She lunges forward, her blade moving faster than you can react.
+[/NARRATIVE]
+
+[CHOICES]
+A) You were wrong. → ENDING_FAILURE
+[/CHOICES]
+
+[ENDING_SUCCESS]
+You are no match for her in a direct fight. Instead, you look up and reach out with all your might. With a powerful shove of the Force, you tear a huge section of the ancient ceiling loose. The Inquisitor looks up in alarm and leaps back as tons of rock crash down, completely blocking the path between you. "This isn't over!" she screams from the other side. You don't wait to listen. Clutching the Orbex Stone, you, Kael, and K4-N1 flee the collapsing temple and make it back to your ship. You have the stone. Your real journey as a Jedi has just begun.
+
+[ENDING_FAILURE]
+You ignite your training saber, its weak blade looking pathetic against the Inquisitor's crimson weapon. Your bravery is no match for her experience and power. She disarms you in a single, fluid motion, sending your saber clattering across the floor. With a flick of her wrist, she uses the Force to pull the Orbex Stone from your grasp and into her own. "Such a foolish child," she says, as her guards emerge from the shadows to take you into custody. Your quest has ended in darkness.

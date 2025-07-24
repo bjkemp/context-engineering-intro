@@ -1,0 +1,264 @@
+[GAME_NAME]
+The Adventure of PRISMS
+
+[MAIN_MENU]
+Start New Game
+Load Game
+Exit
+
+[STORY_TEXT]
+
+[STEP_1]
+[NARRATIVE]
+Welcome, [USER], to the mystical world of PRISMS!
+You are a brave adventurer embarking on a quest to uncover ancient secrets. Your journey begins in the Whispering Woods, a place of both beauty and peril. Ancient trees tower overhead, their leaves rustling with otherworldly whispers. Before you lie three paths: a narrow trail winding deeper into the forest, a stone bridge crossing a babbling brook, and a steep climb toward a rocky outcrop where strange lights flicker.
+Choose your path wisely, for destiny awaits!
+[/NARRATIVE]
+
+[CHOICES]
+A) Follow the narrow forest trail → STEP_2
+B) Cross the stone bridge → STEP_3
+C) Climb toward the mysterious lights → STEP_4
+[/CHOICES]
+
+[STEP_2]
+[NARRATIVE]
+The narrow trail leads you deeper into the heart of the Whispering Woods. The canopy grows thicker overhead, filtering the sunlight into dancing patterns on the forest floor. You hear the sound of rushing water ahead and catch glimpses of something glittering through the trees. As you emerge into a small clearing, you discover an ancient shrine adorned with crystalline formations - the legendary Prism Shrine! However, the shrine is guarded by a massive stone golem, its eyes glowing with azure light.
+[/NARRATIVE]
+
+[CHOICES]
+A) Attempt to sneak past the golem → STEP_5
+B) Try to communicate with the guardian → STEP_6
+C) Search for another way around → STEP_7
+D) Retreat and choose a different path → STEP_1
+[/CHOICES]
+
+[STEP_3]
+[NARRATIVE]
+You cross the sturdy stone bridge, feeling the cool mist from the brook below on your face. The water beneath sparkles with an unusual iridescent quality, and you notice small fish with scales that shimmer like tiny prisms swimming in the current. On the far side of the bridge, you encounter a hooded figure sitting by a campfire. The stranger looks up as you approach, revealing wise but weary eyes beneath the hood.
+"Greetings, traveler," the figure says. "I am Sage Lumina, keeper of ancient knowledge. I sense you seek the Prism of Power."
+[/NARRATIVE]
+
+[CHOICES]
+A) Ask the sage for guidance → STEP_8
+B) Inquire about the shimmering fish → STEP_9
+C) Offer to share your supplies with the sage → STEP_10
+[/CHOICES]
+
+[STEP_4]
+[NARRATIVE]
+The climb is treacherous, but your determination drives you upward. As you reach the rocky outcrop, you discover the source of the mysterious lights: a circle of floating crystal shards that pulse with rainbow colors. In the center of this formation stands an ornate pedestal holding an ancient tome. The book's pages flutter in an unfelt breeze, and you can see that it's written in glowing runes. However, approaching the tome causes the crystal shards to spin faster and emit a high-pitched humming sound.
+[/NARRATIVE]
+
+[CHOICES]
+A) Reach for the ancient tome → STEP_11
+B) Try to decipher the runes from a distance → STEP_12
+C) Touch one of the floating crystal shards → STEP_13
+[/CHOICES]
+
+[STEP_5]
+[NARRATIVE]
+You attempt to sneak past the stone golem, moving as quietly as possible through the undergrowth around the shrine. Your stealth serves you well initially, but as you near the crystalline formations, your foot snaps a hidden twig. The golem's head turns with grinding stone sounds, its azure eyes focusing directly on you. For a moment, time seems frozen. Then, surprisingly, the golem speaks in a voice like rumbling earth: "Your heart is pure, young seeker. You may approach the shrine, but beware - the first trial awaits within."
+[/NARRATIVE]
+
+[CHOICES]
+A) Thank the golem and approach the shrine → STEP_14
+B) Ask the golem about the trials → STEP_15
+C) Request the golem's protection on your journey → STEP_16
+[/CHOICES]
+
+[STEP_6]
+[NARRATIVE]
+You step forward boldly and address the stone guardian. "Greetings, noble guardian. I seek the ancient wisdom of the Prism Shrine." The golem's glowing eyes dim for a moment before brightening again. "Few show such respect, mortal. I am Granite, Guardian of the First Prism. Your courtesy grants you passage, but know that the path ahead requires more than politeness. Within the shrine, you will face the Trial of Reflection. Are you prepared to confront your true self?"
+[/NARRATIVE]
+
+[CHOICES]
+A) Accept the challenge confidently → STEP_14
+B) Ask what the Trial of Reflection involves → STEP_15
+C) Request time to prepare yourself mentally → STEP_17
+[/CHOICES]
+
+[STEP_7]
+[NARRATIVE]
+You carefully circle the clearing, looking for an alternative route to the shrine. Your search reveals a hidden path marked by small cairns of stacked stones. Following this secret trail, you discover it leads to a cave entrance behind the shrine. Ancient symbols are carved around the cave mouth, and a cool breeze carries the scent of underground waters from within. As you peer into the darkness, you hear the faint sound of chanting echoing from the depths.
+[/NARRATIVE]
+
+[CHOICES]
+A) Enter the cave and follow the chanting → STEP_18
+B) Return to face the golem directly → STEP_6
+C) Study the ancient symbols first → STEP_19
+[/CHOICES]
+
+[STEP_8]
+[NARRATIVE]
+Sage Lumina nods approvingly. "Wisdom lies in seeking guidance, young one. The Prism of Power you seek is indeed real, but it is not easily claimed. Three trials await: the Trial of Reflection, the Trial of Elements, and the Trial of Unity. Each will test a different aspect of your character." The sage reaches into their robes and produces a small, clear crystal. "Take this Seer's Stone. It will help you see through illusions and deceptions on your journey."
+[/NARRATIVE]
+
+[CHOICES]
+A) Ask about the first trial → STEP_20
+B) Inquire about the location of the trials → STEP_14
+C) Request additional advice for the journey → STEP_21
+[/CHOICES]
+
+[STEP_9]
+[NARRATIVE]
+"Ah, you have a keen eye," Sage Lumina smiles. "Those are Prism Fish, creatures touched by ancient magic. Their scales contain fragments of dispersed light from the original Great Prism that once protected this realm. Legend says that one who can catch a Prism Fish without harming it will gain the ability to see hidden truths." The sage gestures to the water. "But beware - they are as clever as they are beautiful, and they do not appreciate rough handling."
+[/NARRATIVE]
+
+[CHOICES]
+A) Attempt to catch a Prism Fish → STEP_22
+B) Ask the sage to teach you about Prism magic → STEP_8
+C) Continue your journey without delay → STEP_4
+[/CHOICES]
+
+[STEP_10]
+[NARRATIVE]
+Your generous gesture touches the sage's heart. "Kindness is a rare treasure in these troubled times," Sage Lumina says, accepting your offered provisions. "Such generosity deserves reward." The sage produces a beautiful amulet carved from what appears to be crystallized starlight. "This is the Amulet of Harmony. It will protect you from the corrupting influence of dark magic and help you find peaceful solutions to conflicts. May it serve you well on your quest."
+[/NARRATIVE]
+
+[CHOICES]
+A) Thank the sage and ask for directions → STEP_8
+B) Share your campfire and learn more about the realm → STEP_23
+C) Offer to escort the sage to safety → STEP_24
+[/CHOICES]
+
+[STEP_11]
+[NARRATIVE]
+As your fingers touch the ancient tome, the crystal shards suddenly stop spinning and emit a brilliant flash of light. When your vision clears, you find yourself standing in a vast library filled with floating books and scrolls. The tome in your hands has opened to a page titled "The Shattered Prism Prophecy." The text reads: "When darkness consumes the light, three trials shall test the worthy. Only one pure of heart can reunite the scattered prisms and restore balance to the realm."
+[/NARRATIVE]
+
+[CHOICES]
+A) Read more of the prophecy → STEP_25
+B) Explore the magical library → STEP_26
+C) Try to return to the rocky outcrop → STEP_27
+[/CHOICES]
+
+[STEP_12]
+[NARRATIVE]
+From a safe distance, you study the glowing runes carefully. Your concentration pays off as the ancient symbols begin to make sense. The text speaks of a great sundering that scattered powerful prisms across the land, and of a prophecy foretelling their eventual reunification. As you decipher the final passages, one of the crystal shards detaches from the circle and floats gently toward you, coming to rest in your palm. It feels warm and pulses with inner light.
+[/NARRATIVE]
+
+[CHOICES]
+A) Examine the crystal shard closely → STEP_28
+B) Try to communicate with the crystal → STEP_29
+C) Place the crystal back in the circle → STEP_11
+[/CHOICES]
+
+[STEP_13]
+[NARRATIVE]
+The moment your finger touches the crystal shard, visions flood your mind. You see flashes of an ancient civilization, a great prism that brought peace and prosperity, and a terrible war that shattered it into countless fragments. The visions fade, leaving you with newfound knowledge and a deep understanding of your true purpose. The crystal you touched dissolves into motes of light that swirl around you before settling into your skin, leaving you permanently changed and more attuned to prism magic.
+[/NARRATIVE]
+
+[CHOICES]
+A) Use your new magical insight to read the tome → STEP_25
+B) Search for more crystal shards to touch → STEP_30
+C) Leave the outcrop and seek the first trial → STEP_14
+[/CHOICES]
+
+[STEP_14]
+[NARRATIVE]
+You approach the Prism Shrine with reverence. The crystalline formations hum with power, and as you step into the circle, reality shifts around you. You find yourself in a hall of mirrors, each reflection showing a different version of yourself - some noble and heroic, others corrupted by power, and still others consumed by fear. A voice echoes from everywhere at once: "Choose which reflection represents your true self, for this choice will determine your path through the remaining trials."
+[/NARRATIVE]
+
+[CHOICES]
+A) Choose the noble, heroic reflection → STEP_31
+B) Choose the reflection showing your current, imperfect self → STEP_32
+C) Declare that all reflections are part of who you are → STEP_33
+[/CHOICES]
+
+[STEP_15]
+[NARRATIVE]
+Guardian Granite's eyes flicker with what might be approval. "The Trial of Reflection forces you to confront your inner nature. You will face illusions designed to reveal your true character. Some see monsters where none exist, others see treasure where only emptiness waits. The key is not to see what you wish to see, but to see what truly is. Many fail because they cannot accept their own flaws, while others fail because they cannot recognize their own worth."
+[/NARRATIVE]
+
+[CHOICES]
+A) Enter the shrine prepared for self-discovery → STEP_14
+B) Ask if there's any way to prepare for the trial → STEP_17
+C) Request to know about the other trials first → STEP_34
+[/CHOICES]
+
+[STEP_16]
+[NARRATIVE]
+The stone golem considers your request carefully. "I cannot leave my post, young seeker, but I can offer you something of value." Granite raises one massive hand, and a fragment of stone breaks away, reshaping itself into a small guardian statue. "This will warn you of immediate physical danger and can block one potentially fatal attack. Use it wisely, for once spent, it cannot be recharged." The tiny stone guardian settles into your pack with a satisfied rumble.
+[/NARRATIVE]
+
+[CHOICES]
+A) Thank Granite and enter the shrine → STEP_14
+B) Ask about the other trials before proceeding → STEP_34
+C) Request additional guidance → STEP_15
+[/CHOICES]
+
+[STEP_17]
+[NARRATIVE]
+"Wisdom in seeking preparation," Granite rumbles approvingly. "Sit and meditate by the shrine for a time. Let the crystal energies attune your spirit." You spend time in quiet contemplation, feeling the harmonious vibrations of the crystalline formations. As you meditate, your mind becomes clearer and more focused. You sense that you're better prepared to distinguish between illusion and reality, between your fears and the truth of who you are.
+[/NARRATIVE]
+
+[CHOICES]
+A) Enter the shrine with confidence → STEP_14
+B) Ask Granite for any final advice → STEP_15
+C) Spend more time meditating to ensure readiness → STEP_35
+[/CHOICES]
+
+[STEP_18]
+[NARRATIVE]
+You enter the cave and follow the sound of chanting deeper underground. The tunnel opens into a vast cavern lit by phosphorescent crystals. In the center, a group of robed figures surrounds a pool of luminous water. They chant in an ancient language, and with each verse, the water glows brighter. One of the figures notices your arrival and approaches. "Welcome, seeker. We are the Keepers of the Second Prism. The Trial of Elements awaits you, but first, you must prove your respect for the natural forces that govern our world."
+[/NARRATIVE]
+
+[CHOICES]
+A) Ask about the Trial of Elements → STEP_36
+B) Offer to join their ritual → STEP_37
+C) Question their connection to the prisms → STEP_38
+[/CHOICES]
+
+[STEP_19]
+[NARRATIVE]
+The ancient symbols carved around the cave entrance tell a fascinating story. They depict the creation of the Great Prism, its shattering, and the scattering of fragments across the realm. One symbol shows three trials that must be overcome to gather the scattered pieces. As you trace the final symbol with your finger, it begins to glow, and the cave entrance widens, revealing that your study has unlocked a hidden passage deeper into the mountain.
+[/NARRATIVE]
+
+[CHOICES]
+A) Enter through the newly revealed passage → STEP_39
+B) Return to the original cave entrance → STEP_18
+C) Continue studying the symbols for more secrets → STEP_40
+[/CHOICES]
+
+[STEP_20]
+[NARRATIVE]
+"The Trial of Reflection will test your ability to see truth through illusion," Sage Lumina explains. "You will face manifestations of your deepest fears and greatest desires. The challenge is to recognize what is real and what is merely a projection of your own mind. Many adventurers become lost in their own reflections, unable to distinguish between their true selves and what they wish or fear they might be. Remember: authenticity is your greatest strength."
+[/NARRATIVE]
+
+[CHOICES]
+A) Head to the Trial of Reflection immediately → STEP_14
+B) Ask about the remaining trials → STEP_21
+C) Request a token or tool to help with the trial → STEP_41
+[/CHOICES]
+
+[STEP_21]
+[NARRATIVE]
+Sage Lumina leans forward conspiratorially. "The trials are not just tests of worthiness - they are transformative experiences. Each will change you, hopefully for the better. Trust in your fundamental goodness, but do not blind yourself to your flaws. The prisms respond to balance, not perfection. Also, beware the Shadow Seekers - corrupted beings who desire the prism fragments for dark purposes. They may try to interfere with your trials."
+[/NARRATIVE]
+
+[CHOICES]
+A) Ask how to identify Shadow Seekers → STEP_42
+B) Begin your journey to the first trial → STEP_14
+C) Request protection against the Shadow Seekers → STEP_43
+[/CHOICES]
+
+[STEP_22]
+[NARRATIVE]
+You wade carefully into the stream, moving slowly so as not to startle the Prism Fish. The water feels unusually warm and tingles against your skin. One curious fish approaches, its scales shifting through a spectrum of colors. As you gently cup your hands, the fish swims directly into them, as if choosing to be caught. The moment you lift it from the water, the fish transforms into a small prism that settles into your palm, and you feel your perception sharpening significantly.
+[/NARRATIVE]
+
+[CHOICES]
+A) Thank the Prism Fish and continue your quest → STEP_44
+B) Try to catch another fish → STEP_45
+C) Ask Sage Lumina about this transformation → STEP_46
+[/CHOICES]
+
+[ENDING_SUCCESS]
+Through wisdom, courage, and determination, you have successfully gathered all three prism fragments and completed the trials. As you unite the shattered pieces, brilliant light erupts from the reformed Great Prism, washing over the entire realm. The Whispering Woods grow more vibrant, the corrupted shadows flee, and peace returns to the land. You have become not just an adventurer, but a true Guardian of the Prism, destined to protect this mystical realm for generations to come. Your legend will be told for ages, inspiring future heroes to follow in your footsteps.
+
+[ENDING_FAILURE]
+Despite your best efforts, the trials have proven too challenging, or perhaps the Shadow Seekers' interference has been too great. The prism fragments remain scattered, and darkness begins to creep further into the realm. Your journey ends here, but it is not truly a failure - you have learned much about yourself and the world around you. Perhaps another hero will complete what you began, armed with the knowledge of your experiences. The Whispering Woods remember all who dare to seek their secrets.
+
+[ENDING_NEUTRAL]
+Your adventure concludes with mixed results. You have completed some trials and gained valuable wisdom, but the ultimate goal remains just beyond reach. The realm is neither saved nor doomed, existing in a state of balance between light and shadow. You decide to remain as a guardian of what has been preserved, using your newfound abilities and knowledge to protect travelers and maintain the delicate equilibrium you've helped establish. Sometimes, this too is heroism.

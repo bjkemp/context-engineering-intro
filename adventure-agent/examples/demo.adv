@@ -1,0 +1,99 @@
+[GAME_NAME]
+Demo Adventure: The Wizard's Test
+[/GAME_NAME]
+
+[MAIN_MENU]
+Start New Game
+Load Game
+Exit
+[/MAIN_MENU]
+
+[STEP_1]
+[NARRATIVE]
+You stand before the ancient Tower of Trials, its spiraling structure reaching into the clouds. As an apprentice wizard, you must complete three challenges to earn your staff. The tower's entrance glows with mystical energy, waiting for your approach.
+[/NARRATIVE]
+
+[CHOICES]
+A) Enter through the main door boldly → STEP_2
+B) Search for a secret entrance → STEP_3
+C) Study the tower's magical aura first → STEP_4
+[/CHOICES]
+[/STEP_1]
+
+[STEP_2]
+[NARRATIVE]
+The main hall echoes with your footsteps. Three corridors branch ahead: one filled with dancing lights, another shrouded in mist, and the third eerily silent.
+[/NARRATIVE]
+
+[CHOICES]
+A) Follow the dancing lights → STEP_5
+B) Enter the misty corridor → STEP_6
+[/CHOICES]
+[/STEP_2]
+
+[STEP_3]
+[NARRATIVE]
+Behind the tower, you discover a small door hidden by ivy. It opens to reveal a spiral staircase leading upward, bypassing the ground floor entirely.
+[/NARRATIVE]
+
+[CHOICES]
+A) Climb the secret stairs → STEP_7
+B) Return to the main entrance → STEP_2
+[/CHOICES]
+[/STEP_3]
+
+[STEP_4]
+[NARRATIVE]
+Your magical senses detect three distinct enchantments: protection, illusion, and transformation. This knowledge will serve you well inside.
+[/NARRATIVE]
+
+[CHOICES]
+A) Enter the main door with newfound confidence → STEP_2
+B) Use your understanding to find hidden paths → STEP_3
+[/CHOICES]
+[/STEP_4]
+
+[STEP_5]
+[NARRATIVE]
+The lights lead you to the Chamber of Elements. Here you must demonstrate mastery over fire, water, earth, and air.
+[/NARRATIVE]
+
+[CHOICES]
+A) Begin with fire magic → ENDING_SUCCESS
+B) Start with defensive earth magic → ENDING_NEUTRAL
+[/CHOICES]
+[/STEP_5]
+
+[STEP_6]
+[NARRATIVE]
+The mist conceals illusions that test your perception. You must distinguish between real and false to proceed safely.
+[/NARRATIVE]
+
+[CHOICES]
+A) Trust your instincts → ENDING_SUCCESS
+B) Use a detection spell → ENDING_FAILURE
+[/CHOICES]
+[/STEP_6]
+
+[STEP_7]
+[NARRATIVE]
+The secret path leads directly to the final chamber, but you've skipped the preparatory trials. Are you ready for the ultimate test?
+[/NARRATIVE]
+
+[CHOICES]
+A) Face the final challenge unprepared → ENDING_FAILURE
+B) Descend to complete the proper trials → STEP_5
+[/CHOICES]
+[/STEP_7]
+
+[ENDING_SUCCESS]
+Congratulations! You have mastered the trials and earned your wizard's staff. The tower acknowledges your skill and wisdom. You are now a true wizard, ready for the adventures that await.
+[/ENDING_SUCCESS]
+
+[ENDING_NEUTRAL]
+You complete the trials with adequate skill. While you receive your staff, the tower's magic suggests you still have much to learn. Your journey as a wizard begins with humility.
+[/ENDING_NEUTRAL]
+
+[ENDING_FAILURE]
+The tower's magic overwhelms your unprepared mind. You are gently ejected from the trials, but not harmed. Return when you are better prepared for the challenges ahead.
+[/ENDING_FAILURE]

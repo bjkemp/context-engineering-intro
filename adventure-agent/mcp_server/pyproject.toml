@@ -1,0 +1,27 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "adventure-storyteller-mcp"
+version = "0.1.0"
+description = "MCP server providing storyteller tools for adventure generation"
+authors = [
+    {name = "Adventure Agent", email = "dev@example.com"},
+]
+dependencies = [
+    "mcp>=1.0.0",
+    "pydantic>=2.0.0",
+    "typing-extensions>=4.0.0",
+]
+requires-python = ">=3.8"
+
+[project.scripts]
+adventure-storyteller-mcp = "adventure_storyteller_mcp.server:main"
+
+[tool.uv]
+dev-dependencies = [
+    "pytest>=7.0.0",
+    "pytest-asyncio>=0.21.0",
+    "mypy>=1.0.0",
+]

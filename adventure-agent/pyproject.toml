@@ -1,0 +1,61 @@
+[project]
+name = "adventure-agent"
+version = "0.1.0"
+description = "AI-powered .adv file generator for Choose Your Own Adventure games"
+readme = "README.md"
+authors = [
+    { name = "Context Engineering Team", email = "team@example.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "pydantic-ai>=0.0.14",
+    "typer>=0.14.0",
+    "pydantic>=2.10.0",
+    "python-dotenv>=1.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "pytest-asyncio>=0.25.0", 
+    "pytest-cov>=6.0.0",
+    "ruff>=0.10.0",
+    "mypy>=1.10.0",
+]
+
+[project.scripts]
+adventure-agent = "adventure_agent.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.ruff]
+line-length = 88
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP"]
+ignore = ["E501"]
+
+[tool.mypy]
+python_version = "3.12"
+strict = true
+warn_return_any = true
+warn_unused_configs = true
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+
+[dependency-groups]
+dev = [
+    "mypy>=1.16.1",
+    "pytest>=8.4.1",
+    "pytest-asyncio>=1.0.0",
+    "pytest-cov>=6.2.1",
+    "ruff>=0.12.1",
+]

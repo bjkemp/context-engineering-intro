@@ -1,0 +1,389 @@
+[GAME_NAME]
+The Quest for the Orbex Stone
+
+[MAIN_MENU]
+Start New Game
+Load Game
+Exit
+
+[STORY_TEXT]
+[STEP_1]
+[NARRATIVE]
+The morning suns of Coruscant filter through the tall windows of the Jedi Temple dormitory as you, Padawan [USER], reluctantly begin cleaning your cluttered room. Master Yoda's words echo in your mind: "Clean your quarters, you must. Clear mind comes from clear space, hmm."
+
+As you move aside a pile of training robes, something metallic clatters across the floor. A small, spherical droid no bigger than your fist rolls out from under your bed. Its blue photoreceptor flickers to life, and ancient Aurebesh symbols glow along its chrome surface. The droid chirps softly, almost musically.
+
+"Where did you come from, little one?" you whisper, kneeling down. The droid projects a faint hologram - star maps, ancient temples, and what appears to be a crystalline object pulsing with inner light. The word "ORBEX" flickers in the projection before the droid powers down, exhausted.
+[/NARRATIVE]
+
+[CHOICES]
+A) Immediately take the droid to Master Yoda for guidance → STEP_2
+B) Try to reactivate the droid and study its hologram more closely → STEP_3
+C) Hide the droid and research the "Orbex" symbol in the Temple archives first → STEP_4
+[/CHOICES]
+
+[STEP_2]
+[NARRATIVE]
+You carefully scoop up the small droid and hurry through the Temple's winding corridors to Master Yoda's meditation chamber. The ancient Jedi Master opens his eyes as you approach, his ears twitching with interest.
+
+"Found something, have you?" Yoda examines the droid with his gimer stick, his expression growing serious. "K4-N1, this one is called. Ancient, very ancient. From the time of the High Republic, perhaps older still."
+
+As if responding to its name, K4-N1 reactivates and projects its hologram again. Yoda's eyes widen as he sees the crystal image. "The Orbex Stone... Legend, I thought it was. Summon ethereal Force companions, it can. Dangerous knowledge, this is. Ready for such power, are you?"
+
+Before you can answer, the chamber doors burst open. A hooded figure in dark robes strides in, red eyes gleaming beneath the hood. "Hand over the droid, young Padawan. The Orbex Stone belongs to my master."
+[/NARRATIVE]
+
+[CHOICES]
+A) Stand your ground and ignite your training lightsaber → STEP_5
+B) Try to escape with K4-N1 while Yoda confronts the intruder → STEP_6
+C) Attempt to negotiate and learn who this mysterious figure serves → STEP_7
+[/CHOICES]
+
+[STEP_3]
+[NARRATIVE]
+You gently pick up the droid and channel a small amount of Force energy into it. K4-N1 hums to life, its photoreceptor brightening. "Greetings, young Force-user," it says in a surprisingly clear voice. "I am K4-N1, guardian of ancient knowledge."
+
+The droid projects a more detailed hologram showing a magnificent crystal floating in a temple chamber. "The Orbex Stone - a kyber crystal of unimaginable power. When properly attuned to a lightsaber, it can manifest Force spirits as companions. I have guarded its location for centuries, waiting for one worthy of the quest."
+
+Suddenly, your comlink buzzes. It's your friend Zara, a fellow Padawan. "Hey [USER]! I'm in the archives and I found something weird. There's a whole section about Force crystals that's been restricted. Want to check it out?"
+
+K4-N1's projection flickers. "Time grows short. Dark forces seek the stone. We must choose our path wisely."
+[/NARRATIVE]
+
+[CHOICES]
+A) Meet Zara in the archives to research the restricted Force crystal texts → STEP_8
+B) Ask K4-N1 to show you the exact location of the Orbex Stone → STEP_9
+C) Sneak out of the Temple immediately to begin the quest → STEP_10
+[/CHOICES]
+
+[STEP_4]
+[NARRATIVE]
+You carefully hide K4-N1 under your pillow and make your way to the vast Jedi Archives. The towering shelves of holocrons and ancient texts stretch endlessly upward. You approach the main terminal and search for "Orbex."
+
+Most results are restricted, but you find one accessible entry in a collection of "Legends and Myths of the Outer Rim." The text describes the Orbex Stone as a "crystal of dual nature - both kyber and Force-touched, capable of bridging the physical and spiritual realms."
+
+As you read, Jocasta Nu, the chief librarian, approaches. "Researching legends, young Padawan? How curious. You're the second person today to ask about Force crystals." Her expression grows concerned. "The other was not a Jedi. Wore the robes of a scholar, but his presence felt... wrong."
+
+Just then, alarms begin blaring throughout the Temple. Emergency lighting bathes everything in red as security droids activate. Over the intercom: "All Padawans report to your quarters immediately. The Temple is under lockdown."
+[/NARRATIVE]
+
+[CHOICES]
+A) Rush back to your room to protect K4-N1 → STEP_11
+B) Stay in the archives to continue your research while hidden → STEP_12
+C) Try to find the mysterious "scholar" Jocasta Nu mentioned → STEP_13
+[/CHOICES]
+
+[STEP_5]
+[NARRATIVE]
+Your training lightsaber hums to life, casting blue light across the chamber. The dark figure laughs coldly. "Brave, but foolish." Lightning crackles from their fingertips, but Master Yoda steps forward, his own lightsaber igniting.
+
+"Leave, the dark one must. Protected, the Padawan is." Yoda's blade deflects the lightning easily.
+
+In the chaos, K4-N1 beeps urgently and projects a new image - a page torn from an ancient book, showing detailed star charts and the location of the Orbex Stone on a moon called Tython's Echo. "Quick! Memorize this!" K4-N1 whispers. "The knowledge must survive!"
+
+The dark figure snarls and hurls a Force push that sends you tumbling. As you recover, you see them lunging for K4-N1. You have seconds to act.
+[/NARRATIVE]
+
+[CHOICES]
+A) Use the Force to pull K4-N1 to safety → STEP_14
+B) Tackle the dark figure to protect the droid → STEP_15
+C) Quickly memorize the star chart while fighting continues → STEP_16
+[/CHOICES]
+
+[STEP_6]
+[NARRATIVE]
+"Go!" Yoda shouts, deflecting dark lightning with his lightsaber. "Save the knowledge, you must!" You clutch K4-N1 tightly and sprint from the chamber as the two Force users battle behind you.
+
+Racing through the Temple corridors, you hear K4-N1 chirping frantically. "Left! Take the maintenance shaft!" Following the droid's directions, you squeeze into a narrow service tunnel just as Temple guards rush past, heading toward the commotion.
+
+In the safety of the shaft, K4-N1 projects its crucial hologram. "This is a page from the Chronicle of Crystals, lost for a thousand years. It shows the exact location of the Orbex Stone - on Tython's Echo, in the Sunken Temple of Voices. You must memorize every detail, young Padawan."
+
+The star charts are complex, showing hyperspace routes through dangerous nebulae and asteroid fields. As you study them intently, footsteps echo in the tunnel behind you.
+[/NARRATIVE]
+
+[CHOICES]
+A) Quickly finish memorizing the charts and find another escape route → STEP_17
+B) Power down K4-N1 and hide until the danger passes → STEP_18
+C) Confront whoever is following you in the tunnel → STEP_19
+[/CHOICES]
+
+[STEP_7]
+[NARRATIVE]
+"Wait," you say, raising your hands peacefully. "Who is your master? Why do they want the Orbex Stone?"
+
+The figure pauses, seeming intrigued by your question. "You know not what power you hold, child. My master is Darth Vexar, collector of ancient artifacts. The stone will make him unstoppable."
+
+Yoda steps closer, lightsaber still ready. "A Sith, you serve. Clouded, your path is."
+
+"The boy has potential," the figure continues, ignoring Yoda. "Join us willingly, and share in the stone's power. The ethereal companions it summons could serve the dark side well."
+
+K4-N1 suddenly projects an urgent message: a page from an ancient tome showing detailed maps to the stone's location. "The Chronicle of Crystals!" the dark figure exclaims, lunging forward. "At last!"
+[/NARRATIVE]
+
+[CHOICES]
+A) Grab the projected page information before the Sith can see it → STEP_20
+B) Destroy the projection to keep the location secret → STEP_21
+C) Let the Sith see the information but feed them false details → STEP_22
+[/CHOICES]
+
+[STEP_8]
+[NARRATIVE]
+You slip K4-N1 into your utility pouch and head to meet Zara in the archives. Your Twi'lek friend waves you over to a restricted terminal, her lekku twitching with excitement. "Look at this! I used my master's access codes," she whispers.
+
+On the screen is an entry about "Ethereal Force Manifestations" with a detailed illustration of the Orbex Stone. "It says here that only three have ever been found, and they were all lost during the Great Sith War. But listen to this - 'The final stone was hidden in the Sunken Temple of Voices on Tython's Echo, protected by ancient guardians and Force-sensitive puzzles.'"
+
+K4-N1 vibrates in your pouch and you carefully let it peek out. The droid's photoreceptor scans the text and beeps affirmatively. Suddenly, Zara gasps. "Someone's coming - and they don't feel friendly."
+
+Through the stacks, you see a figure in scholar's robes approaching, but their Force presence radiates darkness. They're heading straight for your terminal.
+[/NARRATIVE]
+
+[CHOICES]
+A) Copy the information quickly and escape with Zara → STEP_23
+B) Confront the dark scholar to protect the knowledge → STEP_24
+C) Create a distraction while Zara downloads the files → STEP_25
+[/CHOICES]
+
+[STEP_9]
+[NARRATIVE]
+"Show me everything, K4-N1," you say quietly. The droid projects a comprehensive star map, and your breath catches. The Orbex Stone lies in the Sunken Temple of Voices on Tython's Echo, a moon in the Deep Core. The route is treacherous, passing through the Maelstrom Nebula and the Bone Fields asteroid cluster.
+
+"The journey is perilous," K4-N1 explains. "Ancient guardians protect the temple, and the moon itself shifts between dimensions. But there is more..." The projection changes to show a page from an ancient text. "This is from the Chronicle of Crystals. It contains the ritual needed to properly attune the stone."
+
+As you study the complex information, your door chime sounds. "Padawan [USER]?" It's Master Kenobi's voice. "I sense great turmoil in you. May I enter?"
+
+K4-N1's projection flickers nervously. Through your connection to the Force, you sense someone else nearby - someone whose presence feels cold and hungry.
+[/NARRATIVE]
+
+[CHOICES]
+A) Quickly hide K4-N1 and let Master Kenobi in → STEP_26
+B) Pretend you're not there and escape through the window → STEP_27
+C) Tell Master Kenobi the truth and ask for his help → STEP_28
+[/CHOICES]
+
+[STEP_10]
+[NARRATIVE]
+"We can't wait," you tell K4-N1. "If dark forces are after the stone, we need to get there first." You gather essential supplies - your lightsaber, some credits, and a travel pack. K4-N1 nestles into a secure pocket in your robes.
+
+Using maintenance passages you've explored during your years at the Temple, you make your way to the landing platforms. A small courier ship sits unguarded, its owner apparently conducting business inside the Temple. K4-N1 chirps softly, "I can slice the security systems, but are you certain about this path?"
+
+Just as you reach the ship, you hear footsteps. A maintenance worker rounds the corner - but something's wrong. His eyes glow with an unnatural light, and when he speaks, his voice has a strange harmonic quality. "The stone calls to us all, young Padawan. But some calls should not be answered."
+
+Behind him, shadows seem to writhe and move independently of their sources.
+[/NARRATIVE]
+
+[CHOICES]
+A) Board the ship quickly and attempt to take off → STEP_29
+B) Try to help the possessed maintenance worker → STEP_30
+C) Use the Force to investigate the strange shadows → STEP_31
+[/CHOICES]
+
+[STEP_11]
+[NARRATIVE]
+You rush through the Temple corridors as alarms continue blaring. Emergency blast doors are sealing sections of the Temple, and you barely squeeze through one before it closes completely. Your quarters are just ahead when you see smoke rising from under your door.
+
+Inside, your room is in chaos. Furniture is overturned, and scorch marks on the walls indicate a lightsaber fight took place. Most concerning of all, your pillow has been sliced open and K4-N1 is gone! On your desk, burned into the metal surface, are words in ancient Sith script.
+
+Suddenly, your window explodes inward and a familiar small droid zooms in, pursued by red blaster bolts. "K4-N1!" The droid is damaged, sparking, but still functional. "Young Padawan," it says weakly, "I escaped, but they have the page - the location of the Orbex Stone! We must warn the Council!"
+
+Through the broken window, you see a dark speeder disappearing into Coruscant's traffic streams.
+[/NARRATIVE]
+
+[CHOICES]
+A) Immediately alert the Jedi Council about the theft → STEP_32
+B) Try to track the dark speeder using the Force → STEP_33
+C) Repair K4-N1 and see if it retained any backup information → STEP_34
+[/CHOICES]
+
+[STEP_12]
+[NARRATIVE]
+You duck behind a towering shelf of holocrons as Temple guards rush past. The archives' emergency lighting casts eerie shadows between the stacks. You continue searching the terminals, looking for any information about Force crystals that might help.
+
+In a section marked "Theoretical Force Applications," you discover a partial entry about the Chronicle of Crystals - an ancient text that supposedly contained the locations and attunement rituals for legendary kyber crystals. Most copies were destroyed, but fragments might still exist.
+
+As you read, you hear quiet footsteps approaching. Peering around the shelf, you see the mysterious scholar Jocasta Nu mentioned. Up close, you can see that beneath his hood, his face is pale and his eyes are an unnatural yellow. He's systematically searching the terminals, growing more frustrated with each one.
+
+"Where is it?" he mutters. "The Chronicle fragment must be here somewhere." He reaches out with the Force, and you feel a cold presence wash over the area, making the holocrons flicker and dim.
+[/NARRATIVE]
+
+[CHOICES]
+A) Sneak closer to learn more about what he's seeking → STEP_35
+B) Create a distraction to draw him away from the crystal information → STEP_36
+C) Try to access the Chronicle information before he finds it → STEP_37
+[/CHOICES]
+
+[STEP_13]
+[NARRATIVE]
+Against your better judgment, you decide to track down this mysterious scholar. Using the Force to mask your presence, you move carefully through the archives. The emergency lighting makes everything look different, casting long shadows between the towering shelves.
+
+You find him in the restricted section, using some kind of dark Force technique to bypass the security locks on the terminals. His face is illuminated by the screen's glow, revealing pale skin marked with strange tattoos that seem to shift and move in the light.
+
+On his screen, you can see he's accessing files about the Chronicle of Crystals. Suddenly, he speaks without turning around: "I know you're there, young one. Your Force signature burns bright in this sea of knowledge." He slowly turns, and you see his eyes are completely black. "You seek the same knowledge I do. Perhaps we can help each other."
+
+He gestures to his screen, where an image of a page from the Chronicle is displayed - showing detailed star charts and the location of the Orbex Stone.
+[/NARRATIVE]
+
+[CHOICES]
+A) Pretend to be interested in working with him to learn more → STEP_38
+B) Try to memorize the page before escaping → STEP_39
+C) Attack immediately to prevent him from accessing more information → STEP_40
+[/CHOICES]
+
+[STEP_14]
+[NARRATIVE]
+You reach out with the Force, feeling K4-N1's small metallic form. The droid zooms toward you just as the dark figure's hand closes on empty air. "Well done, young Padawan!" K4-N1 chirps as it lands safely in your palm.
+
+But your victory is short-lived. The dark figure snarls and unleashes a wave of Force lightning that overwhelms even Master Yoda's defenses. In the chaos, K4-N1 manages to project one final, crucial image - a complete page from the Chronicle of Crystals showing the path to Tython's Echo.
+
+"Memorize it quickly!" K4-N1 whispers urgently as the battle rages around you. The star charts are complex, but your Jedi training in memory techniques serves you well. You absorb every detail: the hyperspace coordinates, the temple's location, even the ancient Jedi symbols that mark the entrance.
+
+Just as you finish memorizing the information, the dark figure breaks free from Yoda's attack and lunges toward you with inhuman speed.
+[/NARRATIVE]
+
+[CHOICES]
+A) Use your memorized knowledge to escape and begin the quest immediately → STEP_41
+B) Stay to help Master Yoda finish the battle → STEP_42
+C) Try to get K4-N1 to safety while keeping the knowledge secret → STEP_43
+[/CHOICES]
+
+[STEP_15]
+[NARRATIVE]
+Without thinking, you launch yourself at the dark figure, tackling them around the waist. Your lightsaber goes flying as you both crash to the floor. The figure is stronger than expected, but your surprise attack gives K4-N1 precious seconds to act.
+
+"The knowledge must survive!" the droid exclaims, projecting the Chronicle page directly onto the chamber wall where you can see it clearly. The star charts burn into your memory as you wrestle with your opponent.
+
+The dark figure throws you off with inhuman strength, but Master Yoda intervenes, his lightsaber creating a barrier between you and your attacker. "Seen enough, you have," Yoda says grimly. "Go! The information, protect it you must!"
+
+As you scramble to your feet and grab your lightsaber, the dark figure makes one final lunge toward K4-N1. Time seems to slow as you realize you have only seconds to act.
+[/NARRATIVE]
+
+[CHOICES]
+A) Grab K4-N1 and flee the Temple immediately → STEP_44
+B) Use the Force to shield K4-N1 from the attack → STEP_45
+C) Challenge the dark figure to a proper lightsaber duel → STEP_46
+[/CHOICES]
+
+[STEP_16]
+[NARRATIVE]
+As Master Yoda and the dark figure duel with flashing lightsabers, you focus intensely on K4-N1's projection. The Chronicle page contains intricate details - hyperspace routes through the Maelstrom Nebula, the exact coordinates of Tython's Echo, and symbols marking the Sunken Temple of Voices.
+
+Your Jedi memory training serves you well. Each detail burns into your mind: the temple's spiral entrance, the three trials mentioned in the ancient text, and most importantly, the ritual symbols needed to safely attune the Orbex Stone.
+
+Just as you complete memorizing the information, the dark figure's lightsaber cuts too close and severs K4-N1's projection unit. The little droid sparks and goes dark, but not before whispering, "The knowledge lives in you now, young Padawan. Trust in the Force."
+
+The dark figure turns toward you with hungry eyes. "No matter. I'll extract the information from your mind directly!"
+[/NARRATIVE]
+
+[CHOICES]
+A) Create a Force barrier to protect your thoughts → STEP_47
+B) Pretend the projection was too damaged to understand → STEP_48
+C) Use your lightsaber skills to keep the dark figure at bay → STEP_49
+[/CHOICES]
+
+[STEP_17]
+[NARRATIVE]
+Your Jedi training in memory techniques serves you well as you rapidly absorb the complex star charts. The route to Tython's Echo requires navigating through the Maelstrom Nebula, avoiding the Bone Fields asteroid cluster, and using an ancient hyperspace lane that's been lost for centuries.
+
+"Hurry," K4-N1 whispers as footsteps approach. "The temple has three guardians - the Stone Sentinel, the Echo Walker, and the Memory Keeper. Each requires a different approach."
+
+You finish memorizing just as a Temple guard appears at the tunnel entrance. But something's wrong - his eyes glow with an unnatural light, and shadows seem to writhe around his feet like living things.
+
+"Found you," he says in a voice that isn't quite his own. "The Dark Lord will be pleased. Hand over the droid and come quietly."
+
+K4-N1 powers down automatically, going into protective hibernation mode. You're on your own with the precious knowledge locked in your memory.
+[/NARRATIVE]
+
+[CHOICES]
+A) Try to reason with the possessed guard → STEP_50
+B) Use the Force to purge the dark influence from the guard → STEP_51
+C) Find another escape route through the maintenance shafts → STEP_52
+[/CHOICES]
+
+[STEP_18]
+[NARRATIVE]
+You quickly power down K4-N1 and press yourself against the tunnel wall, using a Force technique to mask your presence. The footsteps grow closer, accompanied by the hum of a lightsaber and whispered incantations in an ancient language.
+
+Through a crack in the tunnel wall, you see a figure in dark robes pass by. Their lightsaber blade is an ominous red, and strange symbols glow along their armor. They pause directly outside your hiding spot, and you hold your breath.
+
+"I know someone was here," the figure mutters. "The Force trembles with hidden knowledge." They reach out with the dark side, and you feel cold tendrils of power searching for you. Your Jedi training in mental shielding is all that keeps you hidden.
+
+After what feels like hours, the figure moves on. You wait several more minutes before carefully reactivating K4-N1. The droid's photoreceptor glows weakly. "They are gone for now," it whispers, "but they will return. We must decide quickly - seek help from the Council, or begin the quest while we still can."
+[/NARRATIVE]
+
+[CHOICES]
+A) Return to Master Yoda and report what happened → STEP_53
+B) Gather supplies and leave for Tython's Echo immediately → STEP_54
+C) Try to find other Padawans who might help with the quest → STEP_55
+[/CHOICES]
+
+[STEP_19]
+[NARRATIVE]
+"Who's there?" you call out, igniting your training lightsaber. The blue blade illuminates the maintenance tunnel as footsteps approach. To your surprise, it's Zara, your fellow Padawan, crawling through the shaft behind you.
+
+"Thank the Force I found you!" she whispers urgently. "The Temple's been infiltrated. I saw dark figures searching everywhere, and they were asking about you specifically." Her lekku twitch nervously. "What's that droid you're carrying?"
+
+K4-N1 reactivates and scans Zara with its photoreceptor. "This one's Force signature is clean," it reports. "She can be trusted." The droid projects its crucial information - the Chronicle page showing the location of the Orbex Stone.
+
+Zara's eyes widen as she studies the ancient star charts. "This is incredible! But if dark forces are after it..." She looks at you seriously. "We can't do this alone. This is bigger than a Padawan mission."
+
+Just then, both of you hear blaster fire echoing through the Temple corridors above.
+[/NARRATIVE]
+
+[CHOICES]
+A) Convince Zara to help you reach Tython's Echo → STEP_56
+B) Send Zara to get help while you protect the information → STEP_57
+C) Work together to escape the Temple and warn the Council → STEP_58
+[/CHOICES]
+
+[STEP_20]
+[NARRATIVE]
+You lunge forward, using the Force to enhance your speed. Your hand passes through the holographic projection just as you memorize the final details of the Chronicle page. The star charts, temple layout, and ritual symbols burn into your mind with perfect clarity.
+
+The dark figure snarls and reaches for you with clawed fingers, but Master Yoda's lightsaber blocks the attack. "Foolish, you are," Yoda tells the Sith. "Already too late, it is."
+
+K4-N1 suddenly explodes in a shower of sparks and smoke - a self-destruct sequence to prevent the information from being extracted from its memory banks. Through the smoke, you hear the droid's final words: "The knowledge lives in you now, Padawan [USER]. Trust in the Force, and find the Orbex Stone before darkness claims it."
+
+The Sith agent staggers backward, realizing they've failed. "This isn't over, boy. Lord Vexar will find you, wherever you hide." Dark energy swirls around them as they prepare to escape.
+[/NARRATIVE]
+
+[CHOICES]
+A) Try to stop the Sith from escaping → STEP_59
+B) Help Master Yoda pursue the dark agent → STEP_60
+C) Focus on memorizing K4-N1's final data transmission → STEP_61
+[/CHOICES]
+
+[STEP_21]
+[NARRATIVE]
+"No!" you shout, using the Force to disrupt K4-N1's projection system. The hologram flickers and dies before the Chronicle page can be fully displayed. The dark figure roars in anger and unleashes Force lightning, but Master Yoda deflects it with his lightsaber.
+
+K4-N1 sparks and smoke rises from its damaged projector. "Wise choice, young Padawan," the droid whispers weakly. "But the knowledge is not lost. I have uploaded the complete Chronicle page to your datapad when you first activated me. Check your personal files."
+
+The dark figure hears this and lunges toward you. "Give me that datapad!" But Master Yoda interposes himself, engaging the Sith in fierce combat. Lightsabers clash as you quickly check your device.
+
+There it is - a complete file labeled "Chronicle Fragment - Orbex Stone Location." The star charts, temple schematics, and ritual instructions are all preserved. But the battle is intensifying, and you realize you need to get this information to safety.
+[/NARRATIVE]
+
+[CHOICES]
+A) Upload the information to the Jedi archives for safekeeping → STEP_62
+B) Escape with the datapad to begin the quest → STEP_63
+C) Try to transmit the data to other Jedi before it's lost → STEP_64
+[/CHOICES]
+
+[STEP_22]
+[NARRATIVE]
+Thinking quickly, you step forward. "Wait! I can help you understand the projection better." The dark figure pauses, intrigued, as you gesture toward K4-N1's hologram.
+
+"You see these symbols here?" you point to the star charts while subtly using the Force to alter your words. "This shows the stone is hidden in the Crystal Caves of Ilum, not wherever this projection actually indicates."
+
+The Sith's eyes gleam with interest. "Ilum... yes, that makes sense. The ancient Jedi would hide their greatest treasures there." They lean closer to study the projection, not realizing you're feeding them false information.
+
+Meanwhile, you're actually memorizing the real location shown in the hologram - the Sunken Temple of Voices on Tython's Echo. K4-N1 seems to understand your deception and subtly emphasizes the correct details for you while projecting false ones for the Sith.
+
+Master Yoda watches approvingly as you complete your misdirection. But the dark figure is beginning to look suspicious.
+[/NARRATIVE]
+
+[CHOICES]
+A) Continue the deception until they leave for Ilum → STEP_65
+B) Attack while they're distracted by the false information → STEP_66
+C) Reveal the truth to prevent them from harming innocent people on Ilum → STEP_67
+[/CHOICES]
+

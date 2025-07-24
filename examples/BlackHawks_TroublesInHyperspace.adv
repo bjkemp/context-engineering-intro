@@ -1,0 +1,441 @@
+[GAME_NAME]
+The Black Hawks: Troubles in Hyperspace
+
+[NAME]
+false
+
+[MAIN_MENU]
+Start New Game
+Load Game
+Exit
+
+[STEP_1]
+[NARRATIVE]
+The air in the Republic Fleet briefing room on Carrick Station is thick with anticipation, smelling faintly of polished durasteel and nervous sweat. You stand at attention, your back straight, trying to ignore the itch of your new flight suit's collar. Commander Valerius stands at the podium, his voice a low rumble as he speaks of duty and honor. Beside you, your fellow cadets are statues, but you can feel the shared excitement humming between you all.
+[/NARRATIVE]
+[CHOICES]
+A) Focus intently on the Commander's words. You earned this moment. → STEP_2
+B) Steal a glance at the other pilots in your newly-formed Black Hawk squadron. → STEP_3
+[/CHOICES]
+
+[STEP_2]
+[NARRATIVE]
+You lock your gaze on Commander Valerius, a decorated hero of the Great Galactic War, and absorb every word. "You are the shield of the Republic," he declares, his eyes sweeping over your group. "The best of the best." He picks up a small, velvet-lined case from the podium. "Step forward, Pilot, and receive your wings." Your heart hammers against your ribs as you take a proud step forward.
+[/NARRATIVE]
+[CHOICES]
+A) Approach the podium with crisp, military precision. → STEP_4
+[/CHOICES]
+
+[STEP_3]
+[NARRATIVE]
+Your eyes drift to the pilots on your left. There's Jori, whose cocky grin never seems to fade, and Jax, the quiet Bothan who can fly a starfighter through the eye of a needle. This is your new family, the Black Hawks. A wave of pride washes over you as you think of the battles you'll face together. Commander Valerius's voice cuts through your thoughts, "Pilot, step forward and receive your wings."
+[/NARRATIVE]
+[CHOICES]
+A) Snap back to attention and approach the podium. → STEP_4
+[/CHOICES]
+
+[STEP_4]
+[NARRATIVE]
+As you reach the podium, Commander Valerius opens the case, revealing a pair of gleaming silver wings marked with the black hawk insignia. "Wear these with honor," he says, pinning them to your chest. The metal is cool against your flight suit. This is it, the moment you've worked for your entire life. Suddenly, a low, gut-wrenching whine fills the air, followed by a tremor that rattles the entire station.
+[/NARRATIVE]
+[CHOICES]
+A) Look to the Commander for orders. → STEP_5
+B) Instinctively look towards the viewport overlooking the hangar bay. → STEP_6
+[/CHOICES]
+
+[STEP_5]
+[NARRATIVE]
+The Commander’s face is a mask of hardened resolve, his hand already moving to his comlink. "Red alert!" he barks, his voice cutting through the rising panic. "All pilots, to your fighters! That's not a drill!" The station lurches violently as a nearby explosion sends sparks raining from the ceiling panels. The ceremony is over; your first mission has just begun.
+[/NARRATIVE]
+[CHOICES]
+A) Acknowledge the order with a sharp nod and turn to run. → STEP_7
+[/CHOICES]
+
+[STEP_6]
+[NARRATIVE]
+Your eyes find the massive transparisteel viewport just in time to see a squadron of starships tear past. They aren't Republic. Their design is aggressive and angular, spitting green laser fire at the docked cruisers and defense turrets. A torpedo strikes a fuel depot on the deck below, and the station shudders from the concussive blast. An earsplitting alarm confirms your fears: you are under attack.
+[/NARRATIVE]
+[CHOICES]
+A) Turn to run towards the hangar bay immediately. → STEP_7
+[/CHOICES]
+
+[STEP_7]
+[NARRATIVE]
+Panic erupts as personnel scramble for cover, but your training takes over. You need to get to Hangar Bay 7, where your new Aurek-class tactical strikefighter is waiting. The main concourse is already a bottleneck of fleeing civilians and security teams. You spot a service corridor access panel that maintenance crews sometimes use as a shortcut. It might be faster, but it could also be blocked.
+[/NARRATIVE]
+[CHOICES]
+A) Push through the crowd in the main concourse. It's the designated route. → STEP_8
+B) Duck into the service corridor. A shortcut is worth the risk. → STEP_9
+[/CHOICES]
+
+[STEP_8]
+[NARRATIVE]
+You shove your way into the swirling chaos of the main concourse, your shoulders bumping against frantic bodies. "Make way! Pilot coming through!" you shout, the words barely audible over the alarms. Another explosion rocks the station, and a support beam crashes down ahead, blocking the path completely. You've wasted precious seconds and now you have to double back.
+[/NARRATIVE]
+[CHOICES]
+A) Turn back and take the service corridor. → STEP_9
+[/CHOICES]
+
+[STEP_9]
+[NARRATIVE]
+You slap the emergency release on the service panel and wrench it open, diving into the dimly lit corridor. The air is thick with the smell of ozone and hydraulic fluid. Pipes line the walls, and you have to duck and weave to avoid exposed conduits that spark intermittently. It's a maze, but your gut tells you it's the right choice as you hear the muffled sounds of chaos from the concourse fade behind you.
+[/NARRATIVE]
+[CHOICES]
+A) Follow the signs for Hangar Bay 7. → STEP_10
+[/CHOICES]
+
+[STEP_10]
+[NARRATIVE]
+You burst through a final door and find yourself on the upper gantry of Hangar Bay 7. Below, chaos reigns as ground crews rush to fuel and arm the remaining fighters. Your ship, a sleek Aurek-class fighter with the Black Hawk emblem freshly painted on its hull, sits waiting on its launch pad. You sprint down the gantry stairs as another enemy run strafes the hangar doors, sending shrapnel flying.
+[/NARRATIVE]
+[CHOICES]
+A) Take a moment for a rapid pre-flight check. → STEP_11
+B) Scramble into the cockpit and launch immediately. There's no time! → STEP_12
+[/CHOICES]
+
+[STEP_11]
+[NARRATIVE]
+You run a hand over the fuselage, your eyes scanning for damage as you circle the fighter. The power couplings look secure, the repulsorlifts are energized, and the missile pods are fully loaded. "She's good to go, pilot!" a deck officer yells over the din. Satisfied, you climb the ladder and slide into the cockpit, your movements efficient and practiced. The canopy hisses shut, sealing you in a world of humming electronics.
+[/NARRATIVE]
+[CHOICES]
+A) Power up and launch. → STEP_13
+[/CHOICES]
+
+[STEP_12]
+[NARRATIVE]
+There's no time for checklists. You vault up the ladder and drop into the pilot's seat, slapping the activation sequence with muscle memory alone. The ship roars to life around you, but a warning light flashes on your console: the port-side deflector shield is projecting at only 80% strength. It's too late to do anything about it now. The deck officer gives you a frantic "go" signal as you jam the throttle forward.
+[/NARRATIVE]
+[CHOICES]
+A) Ignore the warning and launch into the fray. → STEP_13
+[/CHOICES]
+
+[STEP_13]
+[NARRATIVE]
+Your Aurek fighter lifts from the deck and rockets out of the hangar's magnetic shield, throwing you back in your seat. The cold void of space is instantly filled with the beautiful, deadly ballet of a dogfight. Green and red energy bolts crisscross the blackness. The comm crackles to life, "Black Hawk One, this is Valerius. Form up on me. We're clearing a path for the capital ships. Repel the primary attack wave."
+[/NARRATIVE]
+[CHOICES]
+A) Acknowledge and engage the nearest group of enemy fighters. → STEP_14
+[/CHOICES]
+
+[STEP_14]
+[NARRATIVE]
+"Copy that, Commander," you reply, your hands tightening on the flight stick. You bank hard, targeting a trio of enemy fighters harassing a Republic medical frigate. Your targeting computer screams for a lock, the high-pitched whine a familiar song. You squeeze the trigger, and your laser cannons unleash a torrent of scarlet energy bolts that stitch across the hull of the lead ship, causing it to blossom into a silent, fiery flower.
+[/NARRATIVE]
+[CHOICES]
+A) Break off and target the next fighter. → STEP_15
+B) Pursue the two remaining fighters from the trio. → STEP_16
+[/CHOICES]
+
+[STEP_15]
+[NARRATIVE]
+One down. You peel away, searching for a new target, when your sensors shriek a proximity alert. An enemy fighter appears on your tail, its cannons already glowing. "I've got a bogie on my six!" you yell into the comm. Jori's voice crackles back, "Hang on, Hawk One, I'm coming!" But he's too far out, and the enemy pilot is good, matching your every evasive maneuver.
+[/NARRATIVE]
+[CHOICES]
+A) Try to out-fly him with a complex barrel roll. → STEP_17
+B) Decouple the engines and slam on the retro-thrusters to make him overshoot. → STEP_18
+[/CHOICES]
+
+[STEP_16]
+[NARRATIVE]
+You stay on the remaining two fighters, hungry for another kill. They split apart, trying to force you to choose. You follow the one on the right, lining up a perfect shot. But it's a trap. The other fighter loops around and appears on your flank, unleashing a volley that hammers against your shields. Your entire console flickers, and the ship groans in protest.
+[/NARRATIVE]
+[CHOICES]
+A) Abort the attack and take evasive action. → STEP_17
+[/CHOICES]
+
+[STEP_17]
+[NARRATIVE]
+You jam the stick, twisting your fighter in a desperate spiral. The enemy pilot is relentless, peppering your shields with precision shots. A lucky bolt finds a weak spot—your port-side shield that might have been at 80%—and punches through, slagging a secondary power conduit. Your controls go dead for a terrifying second before emergency power kicks in. In that second, the enemy lines up the killing blow. The world flashes white.
+[/NARRATIVE]
+[CHOICES]
+A) ... → STEP_19
+[/CHOICES]
+
+[STEP_18]
+[NARRATIVE]
+It's a risky, high-G maneuver you learned back at the academy. You decouple the main thrusters and hit the retros, effectively slamming on the brakes in the vacuum of space. The enemy fighter, caught by surprise, screams past you. For a perfect, beautiful moment, he is motionless in front of your cannons. You don't waste it. A single, sustained blast turns his ship into drifting scrap metal.
+[/NARRATIVE]
+[CHOICES]
+A) Re-engage main thrusters and look for the enemy commander. → STEP_20
+[/CHOICES]
+
+[STEP_19]
+[NARRATIVE]
+"...your wings." The world comes back into focus not with a flash of light, but with the drone of Commander Valerius's voice. You're standing in the briefing room, your fellow cadets beside you. There are no alarms, no explosions. Valerius is holding the velvet box. "Step forward, Pilot, and receive your wings," he repeats. You shake your head slightly, a strange sense of deja vu washing over you from the intense daydream. This time, it's real.
+[/NARRATIVE]
+[CHOICES]
+A) Shake off the daydream and step forward to receive your wings. → STEP_4
+[/CHOICES]
+
+[STEP_20]
+[NARRATIVE]
+"All Black Hawks, the enemy commander is in a modified Fury-class interceptor," Commander Valerius's voice cuts in. "He's targeting the station's primary command bridge. He is priority one." You spot the ship—it's larger, faster, and painted with jagged red stripes. The pilot is a true ace, weaving through debris and Republic fire with arrogant ease. He's heading straight for you, a clear challenge.
+[/NARRATIVE]
+[CHOICES]
+A) Meet him head-on, cannons blazing. A test of nerve. → STEP_21
+B) Try to get on his tail and outmaneuver him. A test of skill. → STEP_22
+[/CHOICES]
+
+[STEP_21]
+[NARRATIVE]
+This is it. You push the throttle to its limit, your fighter screaming towards the enemy ship. It's a game of chicken played with laser cannons at thousands of kilometers per second. Red and green bolts fill the space between you. You feel a tremor as one of his shots grazes your canopy, but you hold steady, your thumb hovering over the trigger for the perfect moment. He breaks first, veering upwards, exposing the vulnerable underside of his ship.
+[/NARRATIVE]
+[CHOICES]
+A) Unleash everything you have. → STEP_23
+[/CHOICES]
+
+[STEP_22]
+[NARRATIVE]
+You bank hard, diving below the Sith interceptor, trying to slide onto his six. But this pilot is no fool. He drops a space mine directly in your path. Your proximity sensors blare a deafening warning. There's no time to dodge. The mine detonates, and the shockwave sends your fighter tumbling end over end, your systems flashing red before going dark. The last thing you see is the enemy ship flying away as your cockpit cracks.
+[/NARRATIVE]
+[CHOICES]
+A) ... → STEP_19
+[/CHOICES]
+
+[STEP_23]
+[NARRATIVE]
+You fire. Your laser cannons and a pair of concussion missiles streak across the void and find their mark. The interceptor's shields flare and collapse, and secondary explosions ripple across its hull. The ship breaks apart in a spectacular, silent detonation. "Commander is down!" a triumphant voice shouts over the comm. "The enemy is in full retreat!" You allow yourself a small, shaky breath of relief as you bank your fighter back towards the damaged station.
+[/NARRATIVE]
+[CHOICES]
+A) Land back at Hangar Bay 7. → STEP_24
+[/CHOICES]
+
+[STEP_24]
+[NARRATIVE]
+The adrenaline fades as you guide your Aurek fighter back into the hangar, the magnetic clamps locking you into place with a solid thud. As your canopy retracts, the sounds of controlled chaos greet you: firefighting droids spraying coolant on smoldering wreckage and medics tending to the wounded. Commander Valerius is waiting for you at the bottom of the boarding ladder, his face grim. "A word, pilot," he says. "My office. Now."
+[/NARRATIVE]
+[CHOICES]
+A) Follow the Commander. → STEP_25
+[/CHOICES]
+
+[STEP_25]
+[NARRATIVE]
+You follow Valerius through corridors still flickering with emergency lighting. His office is sparse, dominated by a large holotable in the center. "That attack wasn't random," he begins, activating the table. A schematic of a sleek, deadly-looking torpedo appears. "While you were busy, a specialized team hit a secure R&D lab. They stole this: the 'Starlane' torpedo prototype, and its unique launcher."
+[/NARRATIVE]
+[CHOICES]
+A) "A torpedo? What's so special about it?" → STEP_26
+B) Remain silent and let him finish. → STEP_27
+[/CHOICES]
+
+[STEP_26]
+[NARRATIVE]
+"It's not just a torpedo," Valerius says, his voice low and serious. "Standard torpedoes can't be fired in hyperspace; the targeting is impossible. This one can. It can be launched from one system and hit a target in another, arriving without any warning." The implications are staggering. No planet, no fleet, no station would ever be safe. It's the ultimate first-strike weapon.
+[/NARRATIVE]
+[CHOICES]
+A) "Who would build such a thing?" → STEP_28
+[/CHOICES]
+
+[STEP_27]
+[NARRATIVE]
+You watch as the Commander magnifies the schematic, his jaw tight. "This weapon makes fleets obsolete. It can strike any target from across the galaxy without warning. If a Separatist cell or, Force forbid, the Sith Empire, gets this operational, the Treaty of Coruscant is void." He looks up from the holo, his eyes boring into yours. "The attack was a distraction, and we fell for it."
+[/NARRATIVE]
+[CHOICES]
+A) "What are my orders, sir?" → STEP_28
+[/CHOICES]
+
+[STEP_28]
+[NARRATIVE]
+"Your orders are to get it back," Valerius states flatly. "I'm assigning the Black Hawks to this mission. You'll take 'The Vigilance,' a Hammerhead-class corvette. The thieves' ship was damaged during their escape and left a faint hyperspace trail." He gestures to a corner of the office where a dilapidated astromech droid stands, covered in dents and mismatched plating. "And this is your new co-pilot."
+[/NARRATIVE]
+[CHOICES]
+A) "Uh, sir... what is that?" → STEP_29
+B) Approach the droid cautiously. → STEP_30
+[/CHOICES]
+
+[STEP_29]
+[NARRATIVE]
+"That," the Commander says with a sigh, "is unit K4-N2. He's an older model, but his memory banks contain the last fragments of the thieves' hyperspace trajectory." The droid whirs and lets out a burst of static, its photoreceptor flickering weakly. "Beep-skzzzt-GREETINGS, MEATBAG... I mean, MASTER. Mission parameters... zzt... accepted." You get the distinct feeling this is going to be a very long trip.
+[/NARRATIVE]
+[CHOICES]
+A) "Glad to have you aboard, K4." → STEP_31
+[/CHOICES]
+
+[STEP_30]
+[NARRATIVE]
+You walk towards the droid, noting the scorch mark on its chassis and the way its head seems to list to one side. As you get closer, its dome swivels with a groan of protesting metal and its single red photoreceptor fixes on you. "K4-N2 at your...bzzzt... service. Probability of mission success: 12.4 percent. I have already prepared a list of my preferred... kssht... eulogies."
+[/NARRATIVE]
+[CHOICES]
+A) "Let's try to focus on the 12.4 percent, shall we?" → STEP_31
+[/CHOICES]
+
+[STEP_31]
+[NARRATIVE]
+Commander Valerius hands you a datapad. "Your squad is waiting for you aboard The Vigilance. K4 has the starting coordinates. Get that torpedo back, Pilot. The fate of the Republic may very well depend on it." You give a sharp nod, tuck the datapad into your suit, and turn to your new mechanical companion. "Alright, Kay-N," you say, "Let's go for a ride." The droid lets out a sound that might be a sorrowful moan or an enthusiastic whistle.
+[/NARRATIVE]
+[CHOICES]
+A) Head to the docking bay where The Vigilance is waiting. → STEP_32
+[/CHOICES]
+
+[STEP_32]
+[NARRATIVE]
+The docking bay smells of ionized air and starship fuel. The Vigilance looms before you, a rugged Hammerhead-class corvette built for a fight. Its bridge-forward design gives it an aggressive, determined look. Your squadron—Jori, Jax, and a stern-faced weapons specialist named Lyra—are running final checks. "Boss is here!" Jori calls out with a grin. "Ready to go hunt some spies?"
+[/NARRATIVE]
+[CHOICES]
+A) "You know it. Let's get this tub in the air." → STEP_33
+[/CHOICES]
+
+[STEP_33]
+[NARRATIVE]
+You board The Vigilance and make your way to the bridge, with K4-N2 rattling along behind you. You slide into the command chair and plug the droid into the navicomputer socket. "Alright, Kay-N, what have you got for us?" The main holoscreen flickers to life, displaying a fragmented hyperspace route. "Calculating...fzzzzt... trajectory points to the Outer Rim. Specifically, to a cesspool of villainy known as...zzt...Nar Shaddaa."
+[/NARRATIVE]
+[CHOICES]
+A) "Of course it does. Jax, plot the course." → STEP_34
+[/CHOICES]
+
+[STEP_34]
+[NARRATIVE]
+The familiar blue-white tunnel of hyperspace envelops the ship as The Vigilance makes the jump. The journey is tense, the crew running combat drills and studying the limited intel you have. K4-N2 provides intermittent, and usually unhelpful, commentary. "The trail ends at a data-broker's den," the droid buzzes. "A slug-like gentleman named Vorko the Vile. My database suggests not shaking his hand."
+[/NARRATIVE]
+[CHOICES]
+A) "Noted. Jori, Lyra, you're with me on the ground team." → STEP_35
+[/CHOICES]
+
+[STEP_35]
+[NARRATIVE]
+The Vigilance drops out of hyperspace, revealing the dazzling, sickening sprawl of Nar Shaddaa. The entire moon is a city, a vertical jungle of neon signs, floating casinos, and shadowy landing pads. Endless streams of traffic weave between the towering skyscrapers. "Taking us into a commercial docking bay," Jax reports from the helm. "Try not to get disintegrated, boss. This place gives me the creeps."
+[/NARRATIVE]
+[CHOICES]
+A) Head to the ship's ramp. → STEP_36
+[/CHOICES]
+
+[STEP_36]
+[NARRATIVE]
+The moment the ramp lowers, the air hits you—a mix of toxic fumes, exotic spices, and desperation. You, Jori, and Lyra descend into the dimly lit docking bay, blaster pistols kept close but out of sight. K4-N2 waddles behind you, his photoreceptor scanning the area. "My sensors detect 37 distinct varieties of life-threatening bacteria in the air," he chirps helpfully. "I advise against deep breaths."
+[/NARRATIVE]
+[CHOICES]
+A) "Thanks, Kay-N. Lead the way to Vorko's." → STEP_37
+B) "Stay sharp, everyone. Look for trouble." → STEP_38
+[/CHOICES]
+
+[STEP_37]
+[NARRATIVE]
+"This way," K4 beeps, leading you out of the bay and onto a crowded promenade. The noise is overwhelming, a cacophony of a dozen alien languages, loud music, and the hiss of speeders. The droid navigates the throng with surprising agility, taking you down a series of increasingly narrow and dark alleyways. Finally, you stand before a heavy blast door humming with power, a single grimy camera lens observing you.
+[/NARRATIVE]
+[CHOICES]
+A) Knock on the door. → STEP_39
+B) Have K4 try to slice the door's control panel. → STEP_40
+[/CHOICES]
+
+[STEP_38]
+[NARRATIVE]
+"Keep your eyes open," you mutter, hand hovering over your blaster. As you move toward the alley K4 indicated, a Rodian bumps into you hard, then scurries away. You instinctively check your pockets. Your datapad with the mission briefing is gone. "Blast it!" Jori exclaims, pointing. "There he goes!" The Rodian is disappearing into the crowd.
+[/NARRATIVE]
+[CHOICES]
+A) Chase after the Rodian pickpocket. → STEP_41
+B) Let it go. The datapad is encrypted and you have the droid. → STEP_37
+[/CHOICES]
+
+[STEP_39]
+[NARRATIVE]
+You rap your knuckles on the thick metal door. A slot slides open with a hiss, and a pair of bulbous, suspicious eyes peer out. "We're closed," a gurgling voice says in Huttese. "Come back never." Before you can reply, Lyra steps forward, a handful of credits shimmering in her palm. "We have a business proposition for Vorko," she says smoothly. The eye-slot closes and the door buzzes, unlocking with a heavy clank.
+[/NARRATIVE]
+[CHOICES]
+A) Enter Vorko's den. → STEP_42
+[/CHOICES]
+
+[STEP_40]
+[NARRATIVE]
+"Kay-N, see what you can do," you whisper. The droid extends a scomp link and interfaces with the control panel. Sparks fly from the port. "Accessing...bzzzt...security protocols. Password appears to be 'password'. These criminals are...zzt...disappointingly lazy." With a loud click, the heavy blast door slides open, revealing a smoke-filled room beyond.
+[/NARRATIVE]
+[CHOICES]
+A) Enter Vorko's den. → STEP_42
+[/CHOICES]
+
+[STEP_41]
+[NARRATIVE]
+"I'm on him!" you yell, shoving past a group of astonished Duros. You sprint after the Rodian, vaulting over a food stall and dodging a floating cargo drone. The chase leads you through a labyrinthine market, but the thief is fast and knows the terrain. He ducks behind a stack of crates, and when you round the corner, he's gone. Worse, you realize you've been led into a dead-end alley with no one else around.
+[/NARRATIVE]
+[CHOICES]
+A) Head back to Jori, Lyra, and K4. → STEP_37
+[/CHOICES]
+
+[STEP_42]
+[NARRATIVE]
+The room is filled with haze and the scent of illicit spices. In the center, lounging on a pile of cushions, is a Hutt so large he seems to have his own gravitational pull. This must be Vorko. He watches you with amusement as you approach. "Republic," he gurgles. "A long way from home. State your business, before I have my Gamorrean guards use you as target practice."
+[/NARRATIVE]
+[CHOICES]
+A) "We're looking for a stolen shipment. We need its location." → STEP_43
+B) "We're tracking thieves. We need their destination." → STEP_43
+[/CHOICES]
+
+[STEP_43]
+[NARRATIVE]
+Vorko lets out a wet, rumbling laugh. "Information is not free on Nar Shaddaa, little pilot. The thieves you seek paid me for silence." He gestures with a thick, slimy arm towards a datachip on a nearby table. "But for the right price, my memory can be refreshed." Just then, K4-N2 lets out frantic beeps. "Warning! A high-threat individual has entered. Mandalorian armor detected. Probability of imminent blaster fire: 97.6 percent."
+[/NARRATIVE]
+[CHOICES]
+A) Grab the datachip and make a run for it. → STEP_44
+B) Draw your blaster and prepare for a fight. → STEP_45
+[/CHOICES]
+
+[STEP_44]
+[NARRATIVE]
+You lunge for the table, snatching the datachip just as the room erupts in chaos. A figure in scarred, crimson Mandalorian armor stands in the doorway, a heavy blaster rifle already leveled. "The chip, pilot!" the bounty hunter's modulated voice commands. Vorko's guards move to intercept, but the Mandalorian is faster, dropping them with a few precise shots. This is your chance to escape in the confusion.
+[/NARRATIVE]
+[CHOICES]
+A) Run for the back exit you saw earlier. → STEP_46
+B) Use a heavy table for cover and signal your team to do the same. → STEP_45
+[/CHOICES]
+
+[STEP_45]
+[NARRATIVE]
+You, Jori, and Lyra dive for cover as blaster bolts ricochet around the room. The bounty hunter ignores Vorko, their focus entirely on you. "The Separatists pay well for Republic secrets," the hunter's voice crackles, "and better for those who try to take them back." Lyra lays down covering fire while you try to figure out your next move. The room has two exits: the main door and a service door behind Vorko's dais.
+[/NARRATIVE]
+[CHOICES]
+A) "Fall back to the service door! I'll cover you!" → STEP_46
+B) "We fight our way out the main entrance! He's only one person!" → STEP_47
+[/CHOICES]
+
+[STEP_46]
+[NARRATIVE]
+"Go, go, go!" you yell, firing a few shots near the hunter to make them duck. Jori and Lyra sprint for the back door, with K4-N2 rolling frantically behind them. You follow, slamming the door shut just as a blaster bolt scorches the wall where your head was. You find yourselves in another grimy alley. "This way!" Jori shouts, and you begin a desperate race back towards the ship.
+[/NARRATIVE]
+[CHOICES]
+A) Follow Jori back to The Vigilance. → STEP_48
+[/CHOICES]
+
+[STEP_47]
+[NARRATIVE]
+"We can take him!" you shout. You lean out from cover and fire a charged shot at the bounty hunter. It strikes their shoulder pauldron, staggering them, but their armor holds. In return, they launch a wrist-mounted rocket that detonates the wall above you, bringing a shower of debris down on your position. The last thing you feel is a heavy impact, and then darkness.
+[/NARRATIVE]
+[CHOICES]
+A) ... → STEP_42_DREAM
+[/CHOICES]
+
+[STEP_42_DREAM]
+[NARRATIVE]
+You blink, the acrid smoke of the room replaced by the clean, filtered air of The Vigilance's bridge. "Taking us into a commercial docking bay," Jax is saying. "Try not to get disintegrated, boss." You shake your head, the phantom pain of the collapsing ceiling fading. You just had a very clear vision of how a frontal assault would end. Fighting a Mandalorian head-on in a confined space is a bad idea.
+[/NARRATIVE]
+[CHOICES]
+A) Acknowledge Jax and prepare for the ground mission, with a new plan in mind. → STEP_36
+[/CHOICES]
+
+[STEP_48]
+[NARRATIVE]
+You race through the labyrinthine corridors of Nar Shaddaa, the sound of the bounty hunter's jetpack echoing behind you. You reach the docking bay and scramble up the ramp of The Vigilance just as the hunter appears at the end of the corridor, raising their rifle. "Go, Jax, now!" you scream. The ramp seals shut and the ship lurches as it lifts off, a volley of blaster fire harmlessly impacting the hull.
+[/NARRATIVE]
+[CHOICES]
+A) "Get us out of here! Punch it!" → STEP_49
+[/CHOICES]
+
+[STEP_49]
+[NARRATIVE]
+You make it to the bridge, breathing heavily. "Status report!" Lyra plugs the datachip you grabbed from Vorko into the console. "There's heavy encryption, but the destination coordinates are in the clear. It's an uncharted asteroid field in the Minos Cluster. Known on smuggler's charts as the Rakata Maze." K4-N2 whirs. "My analysis of the term 'maze' suggests this will not be...zzt... a straightforward journey."
+[/NARRATIVE]
+[CHOICES]
+A) "No kidding, Kay-N. Jax, plot the course to the Minos Cluster." → STEP_50
+[/CHOICES]
+
+[STEP_50]
+[NARRATIVE]
+The Vigilance jumps to hyperspace once more. The close call with the bounty hunter has left everyone on edge. You know they will be back. As you stare into the swirling blue vortex of hyperspace, you feel a strange thrum of energy, a faint whisper in the back of your mind. It's a feeling you've had before but always dismissed. This time, it feels like a warning.
+[/NARRATIVE]
+[CHOICES]
+A) Focus on the feeling, try to understand it. → STEP_51
+B) Shake it off as stress and focus on the mission. → STEP_52
+[/CHOICES]
+
+[ENDING_SUCCESS]
+With the Starlane Torpedo secured and the Separatist cell shattered, you return to Carrick Station a hero. Commander Valerius greets you personally, the pride in his eyes more valuable than any medal. As the celebration winds down, a robed Jedi Master approaches you. "The Force is strong with you, pilot," she says with a knowing smile. "Your journey is only just beginning."
+
+[ENDING_FAILURE]
+You failed. The Starlane Torpedo was never recovered. Weeks later, news ripples through the HoloNet that the Republic capital on Coruscant has been struck by an untraceable weapon, shattering the Senate tower and killing thousands. The fragile peace is broken. The Sith Empire declares the Treaty of Coruscant void, and the galaxy is once again plunged into the fires of a Great Galactic War, one that you inadvertently helped start.

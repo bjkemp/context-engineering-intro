@@ -1,0 +1,91 @@
+[GAME_NAME]
+The Quest for the Orbex Stone - Part 1
+
+[NAME]
+true
+
+[MAIN_MENU]
+Start New Game
+Load Game
+Exit
+
+[STEP_1]
+[NARRATIVE]
+[USER] kneels on the floor of their cramped Jedi Temple quarters, sorting through dusty training manuals and old meditation crystals. Behind a stack of forgotten homework datapads, their hand brushes against something cold and metallic. They pull out a small, battered astromech droid no bigger than a protocol droid's head, its blue and silver paint chipped and faded. The droid's optical sensor flickers to life with a soft whir, and it projects a holographic message: "Help me, young Jedi... the Orbex Stone..." before the projection cuts out. K4-N1, as the nameplate reads, beeps excitedly and rolls toward the window overlooking the Temple's landing platforms. The little droid seems desperate to leave, but [USER] knows they're supposed to be in meditation class in ten minutes.
+[/NARRATIVE]
+
+[CHOICES]
+A) Sneak out with K4-N1 to investigate the mysterious message → STEP_2
+B) Take K4-N1 to Master Yoda to ask for guidance about the hologram → STEP_3
+[/CHOICES]
+
+[STEP_2]
+[NARRATIVE]
+[USER] quietly slips K4-N1 into their robes and sneaks through the Temple corridors toward the hangar bay. They dodge behind pillars whenever they hear footsteps, their heart racing with each close call. In the hangar, K4-N1 beeps softly and projects a star map showing a route to the Outer Rim planet Jakku. The droid rolls toward an old T-16 skyhopper that's been modified for space travel, apparently belonging to a visiting pilot. K4-N1's interface panel lights up, indicating it can slice into the ship's systems. Just as [USER] approaches the ship, they hear the heavy footsteps of Temple Guards echoing through the hangar.
+[/NARRATIVE]
+
+[CHOICES]
+A) Hide behind the ship and wait for the guards to pass → STEP_4
+B) Boldly approach the guards and claim you're on an official mission → STEP_5
+[/CHOICES]
+
+[STEP_3]
+[NARRATIVE]
+[USER] carries K4-N1 through the winding corridors to Master Yoda's meditation chamber, where the ancient Jedi sits in quiet contemplation. Master Yoda's ears perk up as K4-N1 projects the partial hologram again, showing fragments of ancient Jedi texts and star charts. "Hmm, the Orbex Stone, dangerous knowledge this is," Yoda murmurs, his gimer stick tapping thoughtfully against the floor. "Hidden for centuries, this crystal has been, for good reason." K4-N1 suddenly rolls forward and projects a more complete message: "The stone calls to those pure of heart, but beware - others seek its power for darkness." Master Yoda's expression grows troubled as he senses something stirring in the Force.
+[/NARRATIVE]
+
+[CHOICES]
+A) Ask Master Yoda for permission to search for the stone → STEP_4
+B) Promise to forget about the stone and ask Yoda to deactivate K4-N1 → STEP_5
+[/CHOICES]
+
+[STEP_4]
+[NARRATIVE]
+Whether hiding from guards or seeking Yoda's counsel, [USER] finds themselves in the Temple's ancient archives with K4-N1 by their side. The little droid interfaces with the archive computers, searching through millennia of Jedi records for mentions of the Orbex Stone. Suddenly, the archives' lights flicker and K4-N1 projects a detailed hologram of an ancient tome - "The Chronicle of Ethereal Bonds." On the projected page, [USER] reads about a crystal that "bridges the living Force with the cosmic Force, allowing communion with Force spirits of the past." The hologram shows a map fragment indicating the stone's location in the Crystal Caves of Ilum. Just then, a dark figure in a hooded cloak emerges from the shadows between the archive shelves, red eyes gleaming with malice.
+[/NARRATIVE]
+
+[CHOICES]
+A) Grab K4-N1 and run toward the archive exit → STEP_6
+B) Stand your ground and ignite your training lightsaber → STEP_6
+[/CHOICES]
+
+[STEP_5]
+[NARRATIVE]
+[USER]'s cautious approach leads them to the Temple's communication center, where K4-N1 begins intercepting encrypted transmissions from across the galaxy. The droid's sensors detect multiple parties searching for information about ancient Jedi artifacts, including sinister references to "the stone that binds spirits." Through the static, they hear a chilling voice: "The Orbex Stone will be mine, and with it, I shall command an army of the dead." K4-N1 suddenly beeps urgently and projects a page from "The Chronicle of Ethereal Bonds," showing the stone's location in the Crystal Caves of Ilum. Before [USER] can study the information fully, the transmission cuts out and emergency alarms begin blaring throughout the Temple. Red warning lights flash as a cloaked figure appears at the communication center's entrance, blocking their escape route.
+[/NARRATIVE]
+
+[CHOICES]
+A) Try to negotiate with the mysterious intruder → STEP_6
+B) Create a diversion by overloading the communication equipment → STEP_6
+[/CHOICES]
+
+[STEP_6]
+[NARRATIVE]
+The confrontation with the dark figure reaches its climax as [USER] realizes this is no ordinary intruder - it's a fallen Jedi seeking the Orbex Stone's power. K4-N1 beeps frantically and projects the crucial page from "The Chronicle of Ethereal Bonds" one final time, revealing that the stone lies hidden in the deepest chambers of Ilum's Crystal Caves. "You cannot stop what has already begun, young one," the dark figure hisses, lunging forward with surprising speed. In the chaos that follows, [USER] must make a split-second decision that will determine whether the knowledge of the stone's location remains safe or falls into evil hands. The fate of the Orbex Stone - and the ethereal Force companion it can summon - now hangs in the balance.
+[/NARRATIVE]
+
+[CHOICES]
+A) [USER] successfully protects the page and escapes with K4-N1, gaining crucial knowledge about the Orbex Stone's location → ENDING_SUCCESS
+B) The dark figure steals the page and vanishes, leaving [USER] with only fragments of the stone's location → ENDING_FAILURE
+[/CHOICES]
+
+[ENDING_SUCCESS]
+[USER] clutches the precious page from "The Chronicle of Ethereal Bonds" as they and K4-N1 find safety in the Temple's inner sanctum. The ancient text reveals that the Orbex Stone rests in the heart of Ilum's Crystal Caves, protected by trials that test a Jedi's connection to the Force. K4-N1 chirps proudly, having successfully preserved the knowledge that could lead to discovering the legendary crystal. With the map safely in hand, [USER] realizes their greatest adventure is just beginning - a journey to Ilum that will test their courage, wisdom, and dedication to the light side of the Force. The ethereal Force companion mentioned in the prophecy awaits, but first, they must prove themselves worthy of such a powerful ally.
+
+[ENDING_FAILURE]
+The dark figure's cloak billows as they disappear into the shadows, taking the crucial page from "The Chronicle of Ethereal Bonds" with them. [USER] is left with only fragments of information - knowing the Orbex Stone lies somewhere in Ilum's Crystal Caves, but without the specific details needed to locate it safely. K4-N1 beeps mournfully, having failed in its mission to protect the ancient knowledge. Though the immediate danger has passed, [USER] realizes that somewhere in the galaxy, a fallen Jedi now possesses the key to finding the Orbex Stone. The race to reach the legendary crystal has begun, and [USER] must find another way to uncover its secrets before darkness claims the power to command ethereal Force companions.
+
+[INVENTORY]
+training_lightsaber:1
+jedi_robes:1
+k4n1_droid:1
+
+[STATS]
+force_connection:10
+courage:8
+wisdom:7
+
+[VARIABLES]
+has_page:depends_on_ending
+knows_ilum_location:true
+dark_figure_encountered:true
